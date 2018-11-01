@@ -1,0 +1,309 @@
+{
+    "articleCategories": [
+        {
+            "value": "结构",
+            "label": "结构",
+            "children": [
+                {
+                    "value": "HTML5",
+                    "label": "HTML5"
+                },
+                {
+                    "value": "语义化",
+                    "label": "语义化"
+                },
+                {
+                    "value": "可访问性",
+                    "label": "可访问性"
+                },
+                {
+                    "value": "兼容性",
+                    "label": "兼容性"
+                }
+            ]
+        },
+        {
+            "value": "表现",
+            "label": "表现",
+            "children": [
+                {
+                    "value": "CSS3 基础",
+                    "label": "CSS3 基础"
+                },
+                {
+                    "value": "CSS3",
+                    "label": "CSS3"
+                },
+                {
+                    "value": "CSS 动画",
+                    "label": "CSS 动画"
+                },
+                {
+                    "value": "canvas",
+                    "label": "canvas"
+                }
+            ]
+        },
+        {
+            "value": "行为",
+            "label": "行为",
+            "children": [
+                {
+                    "value": "JS 基础",
+                    "label": "JS 基础"
+                },
+                {
+                    "value": "ECMAScript",
+                    "label": "ECMAScript"
+                },
+                {
+                    "value": "TypeScript",
+                    "label": "TypeScript"
+                }
+            ]
+        },
+        {
+            "value": "工具",
+            "label": "工具",
+            "children": [
+                {
+                    "value": "npm",
+                    "label": "npm"
+                },
+                {
+                    "value": "Yarn",
+                    "label": "Yarn"
+                },
+                {
+                    "value": "Git",
+                    "label": "Git"
+                },
+                {
+                    "value": "Webpack",
+                    "label": "Webpack"
+                },
+                {
+                    "value": "Parcel",
+                    "label": "Parcel"
+                },
+                {
+                    "value": "PostCSS",
+                    "label": "PostCSS"
+                },
+                {
+                    "value": "less",
+                    "label": "less"
+                },
+                {
+                    "value": "sass",
+                    "label": "sass"
+                }
+            ]
+        },
+        {
+            "value": "框架",
+            "label": "框架",
+            "children": [
+                {
+                    "value": "React",
+                    "label": "React"
+                },
+                {
+                    "value": "ReactNative",
+                    "label": "ReactNative"
+                },
+                {
+                    "value": "Flutter",
+                    "label": "Flutter"
+                },
+                {
+                    "value": "Weex",
+                    "label": "Weex"
+                },
+                {
+                    "value": "Vue",
+                    "label": "Vue"
+                },
+                {
+                    "value": "小程序",
+                    "label": "小程序"
+                },
+                {
+                    "value": "Electron",
+                    "label": "Electron"
+                },
+                {
+                    "value": "DSL",
+                    "label": "DSL"
+                }
+            ]
+        },
+        {
+            "value": "RunTime",
+            "label": "RunTime",
+            "children": [
+                {
+                    "value": "NodeJS",
+                    "label": "NodeJS"
+                },
+                {
+                    "value": "WebView",
+                    "label": "WebView"
+                },
+                {
+                    "value": "浏览器",
+                    "label": "浏览器"
+                },
+                {
+                    "value": "IoT",
+                    "label": "IoT"
+                },
+                {
+                    "value": "Extensions",
+                    "label": "Extensions"
+                }
+            ]
+        },
+        {
+            "value": "总结&布道",
+            "label": "总结&布道",
+            "children": [
+                {
+                    "value": "方案",
+                    "label": "方案"
+                },
+                {
+                    "value": "技巧",
+                    "label": "技巧"
+                },
+                {
+                    "value": "职业",
+                    "label": "职业"
+                },
+                {
+                    "value": "成长",
+                    "label": "成长"
+                },
+                {
+                    "value": "趋势",
+                    "label": "趋势"
+                }
+            ]
+        },
+        {
+            "value": "新闻",
+            "label": "新闻",
+            "children": [
+                {
+                    "value": "业界新闻",
+                    "label": "业界新闻"
+                },
+                {
+                    "value": "技术会议",
+                    "label": "技术会议"
+                }
+            ]
+        }
+    ],
+    "tools": [
+        {
+            "listTitle": "前端工具",
+            "items": [
+                {
+                    "title": "CDN 文件上传",
+                    "link": "http://tools-front.cai-inc.com/oss"
+                },
+                {
+                    "title": "TinyPNG 图片压缩",
+                    "link": "https://tinypng.com/"
+                },
+                {
+                    "title": "JSON 校验",
+                    "link": "http://www.bejson.com/"
+                },
+                {
+                    "title": "Base64 生成",
+                    "link": "http://riny.net/lab/tools/img2base64.html"
+                },
+                {
+                    "title": "兼容性自查",
+                    "link": "https://caniuse.com/"
+                },
+                {
+                    "title": "jQuery API 替换",
+                    "link": "http://youmightnotneedjquery.com/"
+                },
+                {
+                    "title": "Mac 软件下载",
+                    "link": "http://xclient.info/"
+                }
+            ]
+        },
+        {
+            "listTitle": "内网系统",
+            "items": [
+                {
+                    "title": "Gitlab",
+                    "link": "https://git.cai-inc.com/"
+                },
+                {
+                    "title": "前端线上监控",
+                    "link": "http://front-sentry.zcy.gov.cn/auth/login/zcy/"
+                },
+                {
+                    "title": "Confluence",
+                    "link": "http://confluence.cai-inc.com"
+                },
+                {
+                    "title": "Jenkins",
+                    "link": "http://corp.cai-inc.com/jenkins/"
+                },
+                {
+                    "title": "Jira",
+                    "link": "http://jira.cai-inc.com/secure/Dashboard.jspa"
+                },
+                {
+                    "title": "禅道",
+                    "link": "http://corp.cai-inc.com/zentao"
+                },
+                {
+                    "title": "内网 npm 私库",
+                    "link": "http://mirrors-front.cai-inc.com/"
+                },
+                {
+                    "title": "公司 SVN 仓库",
+                    "link": "http://corp.cai-inc.com/svn/zcy/%E6%94%BF%E9%87%87%E4%BA%91%E5%BD%92%E6%A1%A3%E7%9B%AE%E5%BD%95"
+                },
+                {
+                    "title": "Web 邮箱",
+                    "link": "https://qiye.aliyun.com/"
+                }
+            ]
+        },
+        {
+            "listTitle": "文档规范",
+            "items": [
+                {
+                    "title": "前端中后台组件库",
+                    "link": "http://doraemon-front.cai-inc.com/"
+                },
+                {
+                    "title": "前端移动端组件库",
+                    "link": "http://zoo-ui.cai-inc.com/#/zh-CN/intro"
+                },
+                {
+                    "title": "前端仓库汇总",
+                    "link": "http://confluence.cai-inc.com/pages/viewpage.action?pageId=3507128"
+                },
+                {
+                    "title": "前端 Git 规范",
+                    "link": "http://confluence.cai-inc.com/pages/viewpage.action?pageId=3507255"
+                },
+                {
+                    "title": "UED 评审规范",
+                    "link": "http://confluence.cai-inc.com/pages/viewpage.action?pageId=3507621"
+                }
+            ]
+        }
+    ]
+}
