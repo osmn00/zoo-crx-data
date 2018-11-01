@@ -15,7 +15,7 @@ var mimetype = {
   'gif': 'image/gif',
   'png': 'image/png',
   'svg': 'image/svg+xml'
-}
+};
 
 var page_404 = function(req, res, path){
     res.writeHead(404, {
@@ -30,7 +30,7 @@ var page_404 = function(req, res, path){
     ' was not found on this server.</p>'
     );
     res.end();
-}
+};
 
 var page_500 = function(req, res, error){
 
@@ -41,7 +41,7 @@ var page_500 = function(req, res, error){
     res.write('<title>Internal Server Error</title>\n');
     res.write('<h1>Internal Server Error</h1>');
     res.write('<pre>' + util.inspect(error) + '</pre>');
-}
+};
 
 
 http.createServer(function (req, res) {
@@ -68,6 +68,6 @@ http.createServer(function (req, res) {
 	    });
 	}
     });
-}).listen(1337, '127.0.0.1');
+}).listen(1337);
 
 console.log('Server running at http://127.0.0.1:1337/');
