@@ -87,6 +87,10 @@
                     "label": "Parcel"
                 },
                 {
+                    "value": "自动化测试",
+                    "label": "自动化测试"
+                },
+                {
                     "value": "PostCSS",
                     "label": "PostCSS"
                 },
