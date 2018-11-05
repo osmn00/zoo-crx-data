@@ -97,6 +97,10 @@
                 {
                     "value": "sass",
                     "label": "sass"
+                },
+                {
+                    "value": "*Lint",
+                    "label": "*Lint"
                 }
             ]
         },
