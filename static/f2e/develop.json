@@ -5,7 +5,7 @@
             {
                 "url": "http://www.w3schools.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cb6210d1bb1d5aa518b01c8320b04be9.png",
-                "title": "w3schools",
+                "title": "W3Schools",
                 "desc": "WEB初学者教程网站"
             },
             {
@@ -17,13 +17,13 @@
             {
                 "url": "http://codepen.io/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4f226462ac14a659c1550cd5f12e7b4a.png",
-                "title": "codepen",
+                "title": "CodePen",
                 "desc": "前端炫酷样式技能效果"
             },
             {
                 "url": "http://fontawesome.io/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9a2f91a979bb118d45bf12a3bef21e04.png",
-                "title": "Fontawesome",
+                "title": "FontAwesome",
                 "desc": "全球著名的前端图标字体库"
             },
             {
@@ -45,10 +45,16 @@
                 "desc": "在线实时编程预览"
             },
             {
-                "url": "http://navnav.co/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/01649d32c770e93d3a4c796922c400e3.png",
-                "title": "Navnav",
-                "desc": "CSS/JS炫酷前端动效"
+                "url": "http://www.cssplay.co.uk/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/0c2a6d2a51bed9a1a33afdf0e347fcf2.png",
+                "title": "CSS Play",
+                "desc": "老牌站点，纯CSS能力展示"
+            },
+            {
+                "url": "https://alistapart.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/85a3f4b70ffc0d4b7fdfc309efae2b96.png",
+                "title": "AListApart",
+                "desc": "前端权威文章聚集地"
             },
             {
                 "url": "https://weui.io/",
@@ -60,7 +66,7 @@
                 "url": "https://code.facebook.com/projects/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9a156a336bb9e13991b88299801f89a6.png",
                 "title": "Facebook-code",
-                "desc": "facebook开放资源"
+                "desc": "FaceBook 开放资源"
             },
             {
                 "url": "http://snapsvg.io/",
@@ -77,7 +83,7 @@
             {
                 "url": "https://codemyui.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a3c4b081f4cced6eff5b59f330493f77.png",
-                "title": "codemyui",
+                "title": "CodeMyUI",
                 "desc": "采集有趣的网站UI代码片段"
             },
             {
@@ -184,7 +190,7 @@
             {
                 "url": "https://getmdl.io/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/40985645d8686418cdf97a7cb755bfac.png",
-                "title": "MaterialDesignLite",
+                "title": "MDL",
                 "desc": "Google官方轻量级MaterialDesignLite版"
             },
             {
