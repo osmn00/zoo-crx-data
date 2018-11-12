@@ -1,298 +1,108 @@
 [
     {
-        "title": "热门推荐",
+        "title": "常用推荐",
         "items": [
             {
-                "url": "http://www.w3schools.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cb6210d1bb1d5aa518b01c8320b04be9.png",
-                "title": "W3Schools",
-                "desc": "WEB初学者教程网站"
+                "url": "https://git.cai-inc.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4a9ca0988bbcbdef350bdc5a926cd7a2.png",
+                "title": "公司 GitLab",
+                "desc": "政采云内网 Gitlab 平台"
             },
             {
-                "url": "http://getbootstrap.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/306b66953f0f599cc133a027b7791112.png",
-                "title": "Bootstrap",
-                "desc": "用于前端开发的开源工具包"
+                "url": "http://tools-front.cai-inc.com/oss",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3bffde4d6a2c4ac8ef1973d722a965c3.png",
+                "title": "Image Upload",
+                "desc": "政采云内网图床服务"
             },
             {
-                "url": "http://codepen.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4f226462ac14a659c1550cd5f12e7b4a.png",
-                "title": "CodePen",
-                "desc": "前端炫酷样式技能效果"
+                "url": "http://tools-front.cai-inc.com/oss-image-handle",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5465cad88d154d9053425e979e2d57ff.png",
+                "title": "CDN 图片体积优化",
+                "desc": "政采云 CDN 图片优化服务"
             },
             {
-                "url": "http://fontawesome.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9a2f91a979bb118d45bf12a3bef21e04.png",
-                "title": "FontAwesome",
-                "desc": "全球著名的前端图标字体库"
+                "url": "http://weekly.zoo.team/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/987c47defba0f1e9c9edf9999eb95393.png",
+                "title": "前端小报",
+                "desc": "政采云前端小报"
             },
             {
-                "url": "http://oops.re/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5e378a38d63450ead0ffd99b5e56e742.png",
-                "title": "OOPS",
-                "desc": "404优秀设计案例展示"
+                "url": "http://front-sentry.zcy.gov.cn/",
+                "icon": "http://front-sentry.zcy.gov.cn/_static/1540008990/sentry/images/default-organization-logo.png",
+                "title": "前端线上监控",
+                "desc": "政采云前端线上监控系统"
             },
             {
-                "url": "https://getmimo.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/e2303186f19d4d24f9bc86618cf9c0c2.png",
-                "title": "Mimo APP",
-                "desc": "一款很棒的编程学习APP"
+                "url": "http://mirrors-front.cai-inc.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5f925e507d8d03cc534685300b20d494.png",
+                "title": "Verdaccio",
+                "desc": "政采云内网 NPM 包搜索"
             },
             {
-                "url": "http://codecast.me/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8836e751ba54f7e4115ab3693d8af0af.png",
-                "title": "CodeCast",
-                "desc": "在线实时编程预览"
+                "url": "http://confluence.cai-inc.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/16f647e50385f0a43edfb910fdf01e44.png",
+                "title": "Confluence",
+                "desc": "政采云 Confluence 文档"
             },
             {
-                "url": "http://www.cssplay.co.uk/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/0c2a6d2a51bed9a1a33afdf0e347fcf2.png",
-                "title": "CSS Play",
-                "desc": "老牌站点，纯CSS能力展示"
+                "url": "http://corp.cai-inc.com/jenkins",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9b76dee6fbfbbf4ccb0085237ab11901.png",
+                "title": "Jenkins",
+                "desc": "政采云持续集成与部署系统"
             },
             {
-                "url": "https://alistapart.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/85a3f4b70ffc0d4b7fdfc309efae2b96.png",
-                "title": "AListApart",
-                "desc": "前端权威文章聚集地"
+                "url": "http://jira.cai-inc.com",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ad80de01b076207fe79a5eece06de8d0.png",
+                "title": "JIRA",
+                "desc": "政采云项目与事务跟踪工具"
             },
             {
-                "url": "https://weui.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b9dc67dc200a74ee9f2d502a204c00c5.png",
-                "title": "WEUI",
-                "desc": "微信官方小程序UI样式库"
+                "url": "http://corp.cai-inc.com/zentao/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/baf3383a6ca2484798ba86fcebda745f.png",
+                "title": "禅道",
+                "desc": "政采云项目管理系统"
             },
             {
-                "url": "https://code.facebook.com/projects/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9a156a336bb9e13991b88299801f89a6.png",
-                "title": "Facebook-code",
-                "desc": "FaceBook 开放资源"
+                "url": "http://corp.cai-inc.com/svn/zcy/%E6%94%BF%E9%87%87%E4%BA%91%E5%BD%92%E6%A1%A3%E7%9B%AE%E5%BD%95",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/224d3a3b242f8ce5e7bc65a203228359.png",
+                "title": "内网 SVN",
+                "desc": "政采云内网 SVN 资源沉淀"
             },
             {
-                "url": "http://snapsvg.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/58e0ff7eb7c4bbf4ced71b486e4a5a3e.png",
-                "title": "SnapSVG",
-                "desc": "SVG动效的JS库"
+                "url": "https://qiye.aliyun.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/edbe603874041155669cbe76ee5ec404.png",
+                "title": "邮箱服务",
+                "desc": "政采云企业邮箱服务"
             },
             {
-                "url": "https://jsfiddle.net/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/2668c2662d4c8f0f72c2769bd291f0d0.png",
-                "title": "JSfiddle",
-                "desc": "在线实时JS测试编程"
+                "url": "https://tinypng.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/c20ee73101eb735ad86f0ed278f43523.jpg",
+                "title": "TingPNG",
+                "desc": "网红在线图片压缩服务"
             },
             {
-                "url": "https://codemyui.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a3c4b081f4cced6eff5b59f330493f77.png",
-                "title": "CodeMyUI",
-                "desc": "采集有趣的网站UI代码片段"
+                "url": "http://www.bejson.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9fa4396bbf4e88bf933075ea1b8e42df.png",
+                "title": "BeJSON",
+                "desc": "集大全的在线格式化服务"
             },
             {
-                "url": "https://tympanus.net/codrops/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b3b592b7d151014ebf5cfe3e79bbd577.png",
-                "title": "codrops",
-                "desc": "网站UI交互源码分享"
+                "url": "http://iconfont.cn",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d7d2567f08fe682a0a09595d6236e655.jpg",
+                "title": "IconFont",
+                "desc": "免费开源的在线图标字体库"
             },
             {
-                "url": "http://htmlarrows.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4e0e5f2b46d4265b4583d99d3f1f8f5f.png",
-                "title": "htmlarrows",
-                "desc": "提供HMTL的特殊符号"
+                "url": "https://caniuse.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/bf8efafe88c1931164ca86e538d16c0f.png",
+                "title": "Can I use",
+                "desc": "浏览器兼容性查询系统"
             },
             {
-                "url": "http://www.copypastecharacter.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cf6f9e3d89ce7f5a613141a7d61c96d0.png",
-                "title": "copypastecharacter",
-                "desc": "特殊符号大全表"
-            },
-            {
-                "url": "http://cssdeck.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ec1f1fd4f54cdc2e0705589eaecc9134.png",
-                "title": "CSSDeck",
-                "desc": "在线CSS前端代码Demo样式效果"
-            },
-            {
-                "url": "http://animista.net/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6f9559e01052955bf8d92e2ef7523f50.png",
-                "title": "Animista",
-                "desc": "CSS动态效果样式在线自定义"
-            },
-            {
-                "url": "https://platform.html5.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b628a81d1b93325d9597f2ba9b3e23ec.png",
-                "title": "html5 Platform",
-                "desc": "HTML5的web浏览技术图谱"
-            },
-            {
-                "url": "http://chuangzaoshi.com/icon/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/20f5bdef48c77b5a1c5c84c701ee2e80.png",
-                "title": "草莓图标",
-                "desc": "为开发者设计的一套免费开源图标库"
-            },
-            {
-                "url": "https://www.raspberrypi.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d376eeeb78959cb60624c4aafd9135a0.png",
-                "title": "树莓派",
-                "desc": "编程教育而设计的微电脑"
-            },
-            {
-                "url": "https://w3techs.com",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3be8069e38941de9586b5144232446d4.png",
-                "title": "w3techs",
-                "desc": "web网站技术调查报告"
-            }
-        ]
-    },
-    {
-        "title": "前端框架",
-        "items": [
-            {
-                "url": "https://facebook.github.io/react/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/86e28410e7a1f05dfd031a7492e2380b.png",
-                "title": "React",
-                "desc": "facebook强大的JavaScript框架"
-            },
-            {
-                "url": "https://angularjs.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3030654ea0f4d7b3a2a1d86c976252ff.png",
-                "title": "Angularjs",
-                "desc": "Google开发的前端技术框架"
-            },
-            {
-                "url": "http://jquery.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cf88944c2f1a8864bd61427e5a096b33.png",
-                "title": "JQuery",
-                "desc": "一个快速、简洁的JavaScript框架"
-            },
-            {
-                "url": "http://foundation.zurb.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/08cc92b0b8ee039223a747fa16b6bfe9.png",
-                "title": "Foundation",
-                "desc": "高级响应式前端框架"
-            },
-            {
-                "url": "http://www.material-ui.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/698bd8a074352de472244ab05602282b.png",
-                "title": "Material UI",
-                "desc": "一组反应元件，实现谷歌的材料设计"
-            },
-            {
-                "url": "http://cn.vuejs.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9575bcf6b9a603083b36a3b8e4ef134a.png",
-                "title": "Vuejs",
-                "desc": "小巧精致,渐进式JavaScript 框架"
-            },
-            {
-                "url": "http://sass-lang.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/e25ff8d418f806f6bea39090b2847fbe.png",
-                "title": "Sass",
-                "desc": "世界级强大的专业CSS扩展语言"
-            },
-            {
-                "url": "https://getmdl.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/40985645d8686418cdf97a7cb755bfac.png",
-                "title": "MDL",
-                "desc": "Google官方轻量级MaterialDesignLite版"
-            },
-            {
-                "url": "https://material.io/guidelines/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/698bd8a074352de472244ab05602282b.png",
-                "title": "Material Design",
-                "desc": "Google官方MaterialDesign指南"
-            },
-            {
-                "url": "http://designmodo.github.io/Flat-UI/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/64cd74a0b6814225774f98d554a3d83b.png",
-                "title": "Flat UI",
-                "desc": "扁平化多彩风格UI"
-            },
-            {
-                "url": "https://purecss.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ee212305e2e8b2a9ca5be66e8bbde1ae.png",
-                "title": "Pure",
-                "desc": "轻型响应式CSS框架"
-            },
-            {
-                "url": "https://semantic-ui.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1908dce7a9bf4627f82cea8cd8f4547c.png",
-                "title": "Semantic UI",
-                "desc": "语义化设计的前端开源框架"
-            },
-            {
-                "url": "http://element.eleme.io/#/zh-CN",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8f230a710bfa48254e65c4b7966e32a6.png",
-                "title": "Element",
-                "desc": "饿了么出品基于Vue2.0前端组件库"
-            },
-            {
-                "url": "https://ant.design/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8b3b1174b17bbd5c8c88fc753aff0324.png",
-                "title": "AntDesign",
-                "desc": "蚂蚁金服的UI设计语言"
-            },
-            {
-                "url": "www.bootcss.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/306b66953f0f599cc133a027b7791112.png",
-                "title": "Bootcss",
-                "desc": "Bootstrap中文爱好者网站"
-            },
-            {
-                "url": "http://lesscss.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/693159103e5cb2d60ac32ad8fd456a4d.png",
-                "title": "Less",
-                "desc": "CSS一种动态样式预处理语言"
-            },
-            {
-                "url": "https://www.emberjs.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/21f5cd4cdbf099a87efbaa615ffd746f.png",
-                "title": "Emberjs",
-                "desc": "Web应用程序开发的MVC框架"
-            },
-            {
-                "url": "http://aurelia.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d15bdbf95ff771e48897a069b968d393.png",
-                "title": "Aurelia",
-                "desc": "javaScript客户端框架"
-            },
-            {
-                "url": "https://laravel.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b5488026e455bf405035566bf950ee3e.png",
-                "title": "Laravel",
-                "desc": "一套简洁优雅的PHP Web开发框架"
-            },
-            {
-                "url": "https://flutter.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6bb8535b3899aa445f0e6e2f8948c30a.png",
-                "title": "Flutter",
-                "desc": "Google跨平台(iOS和Android)原生应用UI框架"
-            }
-        ]
-    },
-    {
-        "title": "论坛社区",
-        "items": [
-            {
-                "url": "http://www.v2ex.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/21107ff6e302f6514c881d086f8e3c1c.png",
-                "title": "V2EX",
-                "desc": "IT创意工作者社区"
-            },
-            {
-                "url": "https://cnodejs.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/7c9e6476f33ce98458fd5a7078d81496.png",
-                "title": "cnode",
-                "desc": "js专业中文社区"
-            },
-            {
-                "url": "http://stackoverflow.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6a0e2f1338a111de4651a87729a6435f.png",
-                "title": "Stackoverflow",
-                "desc": "全球专业的程序员IT技术问答社区"
-            },
-            {
-                "url": "https://news.ycombinator.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/03fff51e6410a52951a4017d37ce2fff.png",
-                "title": "HackerNews",
-                "desc": "HackerNews黑客极客社区"
+                "url": "http://riny.net/lab/tools/img2base64.html",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d1572b3c0790625e5256ba06f11350f9.png",
+                "title": "图片转Base64",
+                "desc": "在线图片转Base64服务"
             },
             {
                 "url": "https://github.com/",
@@ -301,194 +111,28 @@
                 "desc": "面向开源及私有软件项目的托管平台"
             },
             {
-                "url": "http://www.oschina.net/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8560fef3956938ed3b31fefbe866b7d4.png",
-                "title": "开源中国",
-                "desc": "目前国内最大的开源技术社区"
+                "url": "http://animista.net/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6f9559e01052955bf8d92e2ef7523f50.png",
+                "title": "Animista",
+                "desc": "CSS动态效果样式在线自定义"
             },
             {
-                "url": "https://juejin.im/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d6af6d30a2b2b85dbaec340012b8da3e.png",
-                "title": "掘金",
-                "desc": "高质量的技术社区"
-            },
-            {
-                "url": "https://laravel-china.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b5488026e455bf405035566bf950ee3e.png",
-                "title": "LaravelChina",
-                "desc": "PHP和Laravel开发者社区"
-            },
-            {
-                "url": "https://www.diycode.cc/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/700282010713ab4b2f687257111979b0.png",
-                "title": "DiyCode",
-                "desc": "致力于构建开发工程师社区"
-            },
-            {
-                "url": "https://segmentfault.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/da9ef5a7963065d0f7c15a3cc6febf1d.png",
-                "title": "Segmentfault",
-                "desc": "编程爱好者技术交流的平台"
-            },
-            {
-                "url": "https://coding.net/pp",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/55de6b2d73868979ed047799435965f0.png",
-                "title": "Coding冒泡",
-                "desc": "开发者交流分享社区"
-            },
-            {
-                "url": "https://www.awesomes.cn/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/77856471e8b4780fa480de2d6a656a5c.png",
-                "title": "awesomes",
-                "desc": "web前端开发资源库"
-            },
-            {
-                "url": "http://runjs.cn/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1caefb69cceec94c1a5411421cdf3a98.png",
-                "title": "RunJS",
-                "desc": "在线编辑、分享JavaScript代码社区"
-            },
-            {
-                "url": "http://www.guanggoo.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6df3c145033cb589100d9a7d0dd8360f.png",
-                "title": "光谷社区",
-                "desc": "武汉光谷互联网IT社区"
-            }
-        ]
-    },
-    {
-        "title": "学习平台",
-        "items": [
-            {
-                "url": "https://cloud.tencent.com/developer/edu/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5aff1e739e09a6a8f25527aa31019fe6.png",
-                "title": "腾讯云学院",
-                "desc": "服务开发者的专业云技术学习平台"
-            },
-            {
-                "url": "https://getmimo.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/e2303186f19d4d24f9bc86618cf9c0c2.png",
-                "title": "Mimo APP",
-                "desc": "一款很棒的编程学习APP"
-            },
-            {
-                "url": "http://www.w3school.com.cn/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1caf69fcd16d3e630f23bff84084870a.png",
-                "title": "w3school中文",
-                "desc": "编程入门学习及技术文档查询网站"
-            },
-            {
-                "url": "http://cssreference.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ed271b60e5c9817704998d3b4c852a4a.png",
-                "title": "CSS Reference",
-                "desc": "非常棒的免费的CSS属性指导手册"
-            },
-            {
-                "url": "https://www.codecademy.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/fd3111d0e57cc244629040b03b246bac.png",
-                "title": "CodeCademy",
-                "desc": "在线趣味互动模式编程学习平台"
-            },
-            {
-                "url": "https://cn.udacity.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ae194a02402a30234f7d511934971702.png",
-                "title": "udacity",
-                "desc": "传授硅谷的名企官方课程"
-            },
-            {
-                "url": "https://developer.mozilla.org/zh-CN/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a2712caabc83c6d46933b6944abc487e.png",
-                "title": "mozilla开发者",
-                "desc": "开发者网络(MDN)提供有关开放网络技术"
-            },
-            {
-                "url": "http://www.webplatform.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a83b51e229150d0634afe624558a5971.png",
-                "title": "webplatform",
-                "desc": "发布Web标准有关的最新以及高品质信息"
-            },
-            {
-                "url": "https://www.khanacademy.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5f0e60dea1101ecc5ca4b3848ea76643.png",
-                "title": "可汗学院",
-                "desc": "著名的非营利在线教育网站"
-            },
-            {
-                "url": "http://code.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/66242f5a882293e289cde01df8b01815.png",
-                "title": "CODE",
-                "desc": "适用于初级的免费游戏式编程教学"
-            },
-            {
-                "url": "http://www.jstips.co/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/41983fe82d6f58dd07199f39516a2e8e.png",
-                "title": "JStips",
-                "desc": "每天一条JS小知识点"
-            },
-            {
-                "url": "https://www.liveedu.tv",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/138c74dd5e78b8f078de273399896e36.png",
-                "title": "LiveEdu",
-                "desc": "国外程序编程直播平台"
-            },
-            {
-                "url": "https://www.liaoxuefeng.com",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/047f567df5c1c4594d97131896fc8286.png",
-                "title": "廖雪峰",
-                "desc": "力荐：精品编程教程技术大牛博客"
-            }
-        ]
-    },
-    {
-        "title": "个人框架",
-        "items": [
-            {
-                "url": "http://getmobicss.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/30f3b82c427b71ad74939464be688dbb.png",
-                "title": "Mobi.css",
-                "desc": "轻量灵活的移动端 CSS 框架。"
-            },
-            {
-                "url": "http://www.mdui.org/docs/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/62a8a6f732f366ab7627ee6651362dff.png",
-                "title": "MDUI",
-                "desc": "轻量级的Material Design前端框架"
-            },
-            {
-                "url": "http://www.layui.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/e4aebb0ddcec0e1abac1d6cd63037d19.png",
-                "title": "layui",
-                "desc": "面向前后端程序员的模块化前端框架"
-            },
-            {
-                "url": "https://vux.li/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8f05638769c8ee5f8fb3d3af3dc453f3.png",
-                "title": "vux",
-                "desc": "基于Vue和 Weui的移动端框架"
-            },
-            {
-                "url": "http://qmuiteam.com/ios/page/index.html",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/2080dc0bb98beb649a19932d406c6446.png",
-                "title": "QMUIios",
-                "desc": "腾讯旗下团队 IOS UI解决方案"
-            },
-            {
-                "url": "http://qmuiteam.com/web/page/index.html",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/2080dc0bb98beb649a19932d406c6446.png",
-                "title": "QMUIweb",
-                "desc": "腾讯旗下团队 web UI解决方案"
-            },
-            {
-                "url": "https://www.iviewui.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/83931c317064647f3487ff151e547509.png",
-                "title": "iView",
-                "desc": "一套基于 Vue.js 的高质量 UI 组件库"
+                "url": "http://xclient.info/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/760154b574face8d000b0af079cdab54.png",
+                "title": "XClient",
+                "desc": "Mac 软件下载"
             }
         ]
     },
     {
         "title": "在线编程",
         "items": [
+            {
+                "url": "http://runjs.cn/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1caefb69cceec94c1a5411421cdf3a98.png",
+                "title": "RunJS",
+                "desc": "在线编辑、分享JavaScript代码社区"
+            },
             {
                 "url": "http://codecast.me/launch/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8836e751ba54f7e4115ab3693d8af0af.png",
@@ -600,49 +244,449 @@
         ]
     },
     {
-        "title": "代码托管",
+        "title": "效果资源",
         "items": [
             {
-                "url": "https://github.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/74e982dc11d6d266e134911c57f71ba2.png",
-                "title": "Github",
-                "desc": "全球知名的开源及私有项目托管平台"
+                "url": "http://iconfont.cn",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d7d2567f08fe682a0a09595d6236e655.jpg",
+                "title": "IconFont",
+                "desc": "免费开源的在线图标字体库"
             },
             {
-                "url": "https://gitlab.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4a9ca0988bbcbdef350bdc5a926cd7a2.png",
-                "title": "gitlab",
-                "desc": "免费无限制的开源及私有项目托管"
+                "url": "http://fontawesome.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9a2f91a979bb118d45bf12a3bef21e04.png",
+                "title": "FontAwesome",
+                "desc": "全球著名的前端图标字体库"
             },
             {
-                "url": "https://bitbucket.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/317505c8cc23850de3fc3194d60efe42.png",
-                "title": "Bitbucket",
-                "desc": "采用Mercurial和Git的分布式版本控制"
+                "url": "https://codemyui.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a3c4b081f4cced6eff5b59f330493f77.png",
+                "title": "CodeMyUI",
+                "desc": "采集有趣的网站UI代码片段"
             },
             {
-                "url": "https://sourceforge.net/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b3278d4e3b45d45b3acf33cc215c3d23.png",
-                "title": "Sourceforge",
-                "desc": "开放源代码软件开发平台和仓库"
+                "url": "http://codepen.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4f226462ac14a659c1550cd5f12e7b4a.png",
+                "title": "CodePen",
+                "desc": "前端炫酷样式技能效果"
             },
             {
-                "url": "https://coding.net/",
+                "url": "https://tympanus.net/codrops/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b3b592b7d151014ebf5cfe3e79bbd577.png",
+                "title": "codrops",
+                "desc": "网站UI交互源码分享"
+            },
+            {
+                "url": "http://htmlarrows.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4e0e5f2b46d4265b4583d99d3f1f8f5f.png",
+                "title": "HtmlArrows",
+                "desc": "提供HMTL的特殊符号"
+            },
+            {
+                "url": "http://www.copypastecharacter.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cf6f9e3d89ce7f5a613141a7d61c96d0.png",
+                "title": "copypastecharacter",
+                "desc": "特殊符号大全表"
+            },
+            {
+                "url": "http://cssdeck.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ec1f1fd4f54cdc2e0705589eaecc9134.png",
+                "title": "CSSDeck",
+                "desc": "在线CSS前端代码Demo样式效果"
+            },
+            {
+                "url": "http://chuangzaoshi.com/icon/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/20f5bdef48c77b5a1c5c84c701ee2e80.png",
+                "title": "草莓图标",
+                "desc": "在线免费开源图标库"
+            },
+            {
+                "url": "https://www.awesomes.cn/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/77856471e8b4780fa480de2d6a656a5c.png",
+                "title": "awesomes",
+                "desc": "Web 前端开发资源库"
+            }
+        ]
+    },
+    {
+        "title": "学习平台",
+        "items": [
+            {
+                "url": "http://www.w3schools.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cb6210d1bb1d5aa518b01c8320b04be9.png",
+                "title": "W3Schools",
+                "desc": "WEB初学者教程网站"
+            },
+            {
+                "url": "https://code.facebook.com/projects/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9a156a336bb9e13991b88299801f89a6.png",
+                "title": "Facebook-code",
+                "desc": "FaceBook 开放资源"
+            },
+            {
+                "url": "https://platform.html5.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b628a81d1b93325d9597f2ba9b3e23ec.png",
+                "title": "html5 Platform",
+                "desc": "HTML5的Web浏览技术图谱"
+            },
+            {
+                "url": "https://cloud.tencent.com/developer/edu/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5aff1e739e09a6a8f25527aa31019fe6.png",
+                "title": "腾讯云学院",
+                "desc": "服务开发者的专业云技术学习平台"
+            },
+            {
+                "url": "https://getmimo.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/e2303186f19d4d24f9bc86618cf9c0c2.png",
+                "title": "Mimo APP",
+                "desc": "一款很棒的编程学习APP"
+            },
+
+            {
+                "url": "http://www.w3school.com.cn/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1caf69fcd16d3e630f23bff84084870a.png",
+                "title": "w3school中文",
+                "desc": "编程入门学习及技术文档查询网站"
+            },
+            {
+                "url": "https://alistapart.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/85a3f4b70ffc0d4b7fdfc309efae2b96.png",
+                "title": "AListApart",
+                "desc": "前端权威文章聚集地"
+            },
+            {
+                "url": "http://cssreference.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ed271b60e5c9817704998d3b4c852a4a.png",
+                "title": "CSS Reference",
+                "desc": "非常棒的免费的CSS属性指导手册"
+            },
+            {
+                "url": "http://snapsvg.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/58e0ff7eb7c4bbf4ced71b486e4a5a3e.png",
+                "title": "SnapSVG",
+                "desc": "SVG动效的JS库"
+            },
+            {
+                "url": "http://www.cssplay.co.uk/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/0c2a6d2a51bed9a1a33afdf0e347fcf2.png",
+                "title": "CSS Play",
+                "desc": "老牌站点，纯CSS能力展示"
+            },
+            {
+                "url": "https://www.codecademy.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/fd3111d0e57cc244629040b03b246bac.png",
+                "title": "CodeCademy",
+                "desc": "在线趣味互动模式编程学习平台"
+            },
+            {
+                "url": "https://cn.udacity.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ae194a02402a30234f7d511934971702.png",
+                "title": "udacity",
+                "desc": "传授硅谷的名企官方课程"
+            },
+            {
+                "url": "https://developer.mozilla.org/zh-CN/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a2712caabc83c6d46933b6944abc487e.png",
+                "title": "mozilla开发者",
+                "desc": "开发者网络(MDN)提供有关开放网络技术"
+            },
+            {
+                "url": "http://www.webplatform.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a83b51e229150d0634afe624558a5971.png",
+                "title": "webplatform",
+                "desc": "发布Web标准有关的最新以及高品质信息"
+            },
+            {
+                "url": "https://www.khanacademy.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5f0e60dea1101ecc5ca4b3848ea76643.png",
+                "title": "可汗学院",
+                "desc": "著名的非营利在线教育网站"
+            },
+            {
+                "url": "http://code.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/66242f5a882293e289cde01df8b01815.png",
+                "title": "CODE",
+                "desc": "适用于初级的免费游戏式编程教学"
+            },
+            {
+                "url": "http://www.jstips.co/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/41983fe82d6f58dd07199f39516a2e8e.png",
+                "title": "JStips",
+                "desc": "每天一条JS小知识点"
+            },
+            {
+                "url": "http://oops.re/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5e378a38d63450ead0ffd99b5e56e742.png",
+                "title": "OOPS",
+                "desc": "404优秀设计案例展示"
+            },
+            {
+                "url": "https://www.liveedu.tv",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/138c74dd5e78b8f078de273399896e36.png",
+                "title": "LiveEdu",
+                "desc": "国外程序编程直播平台"
+            },
+            {
+                "url": "https://www.liaoxuefeng.com",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/047f567df5c1c4594d97131896fc8286.png",
+                "title": "廖雪峰",
+                "desc": "力荐：精品编程教程技术大牛博客"
+            }
+        ]
+    },
+    {
+        "title": "论坛社区",
+        "items": [
+            {
+                "url": "https://segmentfault.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/da9ef5a7963065d0f7c15a3cc6febf1d.png",
+                "title": "Segmentfault",
+                "desc": "编程爱好者技术交流的平台"
+            },
+            {
+                "url": "http://stackoverflow.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6a0e2f1338a111de4651a87729a6435f.png",
+                "title": "Stackoverflow",
+                "desc": "全球专业的程序员IT技术问答社区"
+            },
+            {
+                "url": "https://juejin.im/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d6af6d30a2b2b85dbaec340012b8da3e.png",
+                "title": "掘金",
+                "desc": "高质量的技术社区"
+            },
+            {
+                "url": "http://www.v2ex.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/21107ff6e302f6514c881d086f8e3c1c.png",
+                "title": "V2EX",
+                "desc": "IT创意工作者社区"
+            },
+            {
+                "url": "https://cnodejs.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/7c9e6476f33ce98458fd5a7078d81496.png",
+                "title": "cnode",
+                "desc": "js专业中文社区"
+            },
+            {
+                "url": "https://news.ycombinator.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/03fff51e6410a52951a4017d37ce2fff.png",
+                "title": "HackerNews",
+                "desc": "HackerNews黑客极客社区"
+            },
+            {
+                "url": "http://www.oschina.net/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8560fef3956938ed3b31fefbe866b7d4.png",
+                "title": "开源中国",
+                "desc": "目前国内最大的开源技术社区"
+            },
+            {
+                "url": "https://laravel-china.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b5488026e455bf405035566bf950ee3e.png",
+                "title": "LaravelChina",
+                "desc": "PHP和Laravel开发者社区"
+            },
+            {
+                "url": "https://www.diycode.cc/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/700282010713ab4b2f687257111979b0.png",
+                "title": "DiyCode",
+                "desc": "致力于构建开发工程师社区"
+            },
+            {
+                "url": "https://coding.net/pp",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/55de6b2d73868979ed047799435965f0.png",
-                "title": "Coding",
-                "desc": "面向开发者的云端开发托管平台"
+                "title": "Coding冒泡",
+                "desc": "开发者交流分享社区"
             },
             {
-                "url": "https://git.oschina.net/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a95e3c009810941ba4d640ec2e126022.png",
-                "title": "码云",
-                "desc": "开源中国代码托管平台"
+                "url": "http://www.guanggoo.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6df3c145033cb589100d9a7d0dd8360f.png",
+                "title": "光谷社区",
+                "desc": "武汉光谷互联网IT社区"
+            }
+        ]
+    },
+    {
+        "title": "前端框架",
+        "items": [
+            {
+                "url": "https://facebook.github.io/react/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/86e28410e7a1f05dfd031a7492e2380b.png",
+                "title": "React",
+                "desc": "facebook强大的JavaScript框架"
             },
             {
-                "url": "https://code.aliyun.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3ad5666a87c791f7fa8cb1738b8f2615.png",
-                "title": "Kelude",
-                "desc": "阿里云代码托管平台"
+                "url": "http://cn.vuejs.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9575bcf6b9a603083b36a3b8e4ef134a.png",
+                "title": "Vuejs",
+                "desc": "小巧精致,渐进式JavaScript框架"
+            },
+            {
+                "url": "https://riot.js.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/46b6379a24427bda7a5ebb1a5f6f98a2.png",
+                "title": "Riot.js",
+                "desc": "比Vue更轻量优雅的选型"
+            },
+            {
+                "url": "https://angularjs.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3030654ea0f4d7b3a2a1d86c976252ff.png",
+                "title": "Angularjs",
+                "desc": "Google开发的前端技术框架"
+            },
+            {
+                "url": "http://jquery.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cf88944c2f1a8864bd61427e5a096b33.png",
+                "title": "JQuery",
+                "desc": "一个快速、简洁的JavaScript框架"
+            },
+            {
+                "url": "http://foundation.zurb.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/08cc92b0b8ee039223a747fa16b6bfe9.png",
+                "title": "Foundation",
+                "desc": "高级响应式前端框架"
+            },
+            {
+                "url": "http://www.material-ui.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/698bd8a074352de472244ab05602282b.png",
+                "title": "Material UI",
+                "desc": "一组反应元件，实现谷歌的材料设计"
+            },
+            {
+                "url": "http://sass-lang.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/e25ff8d418f806f6bea39090b2847fbe.png",
+                "title": "Sass",
+                "desc": "世界级强大的专业CSS扩展语言"
+            },
+            {
+                "url": "https://getmdl.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/40985645d8686418cdf97a7cb755bfac.png",
+                "title": "MDL",
+                "desc": "Google官方轻量级MaterialDesignLite版"
+            },
+            {
+                "url": "https://material.io/guidelines/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/698bd8a074352de472244ab05602282b.png",
+                "title": "Material Design",
+                "desc": "Google官方MaterialDesign指南"
+            },
+            {
+                "url": "http://designmodo.github.io/Flat-UI/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/64cd74a0b6814225774f98d554a3d83b.png",
+                "title": "Flat UI",
+                "desc": "扁平化多彩风格UI"
+            },
+            {
+                "url": "https://purecss.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ee212305e2e8b2a9ca5be66e8bbde1ae.png",
+                "title": "Pure",
+                "desc": "轻型响应式CSS框架"
+            },
+            {
+                "url": "https://semantic-ui.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1908dce7a9bf4627f82cea8cd8f4547c.png",
+                "title": "Semantic UI",
+                "desc": "语义化设计的前端开源框架"
+            },
+            {
+                "url": "http://element.eleme.io/#/zh-CN",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8f230a710bfa48254e65c4b7966e32a6.png",
+                "title": "Element",
+                "desc": "饿了么出品基于Vue2.0前端组件库"
+            },
+            {
+                "url": "https://ant.design/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8b3b1174b17bbd5c8c88fc753aff0324.png",
+                "title": "AntDesign",
+                "desc": "蚂蚁金服的UI设计语言"
+            },
+            {
+                "url": "https://weui.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b9dc67dc200a74ee9f2d502a204c00c5.png",
+                "title": "WEUI",
+                "desc": "微信官方小程序UI样式库"
+            },
+            {
+                "url": "http://getbootstrap.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/306b66953f0f599cc133a027b7791112.png",
+                "title": "Bootstrap",
+                "desc": "用于前端开发的开源工具包"
+            },
+            {
+                "url": "www.bootcss.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/306b66953f0f599cc133a027b7791112.png",
+                "title": "Bootcss",
+                "desc": "Bootstrap中文爱好者网站"
+            },
+            {
+                "url": "http://lesscss.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/693159103e5cb2d60ac32ad8fd456a4d.png",
+                "title": "Less",
+                "desc": "CSS一种动态样式预处理语言"
+            },
+            {
+                "url": "https://www.emberjs.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/21f5cd4cdbf099a87efbaa615ffd746f.png",
+                "title": "Emberjs",
+                "desc": "Web应用程序开发的MVC框架"
+            },
+            {
+                "url": "http://aurelia.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d15bdbf95ff771e48897a069b968d393.png",
+                "title": "Aurelia",
+                "desc": "JavaScript客户端框架"
+            },
+            {
+                "url": "https://laravel.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b5488026e455bf405035566bf950ee3e.png",
+                "title": "Laravel",
+                "desc": "一套简洁优雅的PHP Web开发框架"
+            },
+            {
+                "url": "https://flutter.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6bb8535b3899aa445f0e6e2f8948c30a.png",
+                "title": "Flutter",
+                "desc": "Google跨平台(iOS和Android)原生应用UI框架"
+            },
+            {
+                "url": "http://getmobicss.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/30f3b82c427b71ad74939464be688dbb.png",
+                "title": "Mobi.css",
+                "desc": "轻量灵活的移动端 CSS 框架。"
+            },
+            {
+                "url": "http://www.mdui.org/docs/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/62a8a6f732f366ab7627ee6651362dff.png",
+                "title": "MDUI",
+                "desc": "轻量级的Material Design前端框架"
+            },
+            {
+                "url": "http://www.layui.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/e4aebb0ddcec0e1abac1d6cd63037d19.png",
+                "title": "LayUI",
+                "desc": "面向前后端程序员的模块化前端框架"
+            },
+            {
+                "url": "https://vux.li/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8f05638769c8ee5f8fb3d3af3dc453f3.png",
+                "title": "Vux",
+                "desc": "基于Vue和 WeUI的移动端框架"
+            },
+            {
+                "url": "http://qmuiteam.com/ios/page/index.html",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/2080dc0bb98beb649a19932d406c6446.png",
+                "title": "QMUIiOS",
+                "desc": "腾讯旗下团队 IOS UI解决方案"
+            },
+            {
+                "url": "http://qmuiteam.com/web/page/index.html",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/2080dc0bb98beb649a19932d406c6446.png",
+                "title": "QMUIWeb",
+                "desc": "腾讯旗下团队 web UI解决方案"
+            },
+            {
+                "url": "https://www.iviewui.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/83931c317064647f3487ff151e547509.png",
+                "title": "iView",
+                "desc": "一套基于 Vue.js 的高质量 UI 组件库"
             }
         ]
     },
@@ -749,6 +793,53 @@
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/66f039cd6747be19cc989c5616cbcd0a.png",
                 "title": "Browser Sandbox",
                 "desc": "各大平台浏览器兼容性在线测试"
+            }
+        ]
+    },
+    {
+        "title": "代码托管",
+        "items": [
+            {
+                "url": "https://github.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/74e982dc11d6d266e134911c57f71ba2.png",
+                "title": "Github",
+                "desc": "全球知名的开源及私有项目托管平台"
+            },
+            {
+                "url": "https://gitlab.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/4a9ca0988bbcbdef350bdc5a926cd7a2.png",
+                "title": "GitLab",
+                "desc": "免费无限制的开源及私有项目托管"
+            },
+            {
+                "url": "https://bitbucket.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/317505c8cc23850de3fc3194d60efe42.png",
+                "title": "Bitbucket",
+                "desc": "采用Mercurial和Git的分布式版本控制"
+            },
+            {
+                "url": "https://sourceforge.net/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b3278d4e3b45d45b3acf33cc215c3d23.png",
+                "title": "Sourceforge",
+                "desc": "开放源代码软件开发平台和仓库"
+            },
+            {
+                "url": "https://coding.net/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/55de6b2d73868979ed047799435965f0.png",
+                "title": "Coding",
+                "desc": "面向开发者的云端开发托管平台"
+            },
+            {
+                "url": "https://git.oschina.net/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a95e3c009810941ba4d640ec2e126022.png",
+                "title": "码云",
+                "desc": "开源中国代码托管平台"
+            },
+            {
+                "url": "https://code.aliyun.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3ad5666a87c791f7fa8cb1738b8f2615.png",
+                "title": "Kelude",
+                "desc": "阿里云代码托管平台"
             }
         ]
     },
