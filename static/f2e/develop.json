@@ -100,6 +100,12 @@
                 "desc": "网红在线图片压缩服务"
             },
             {
+                "url": "http://youmightnotneedjquery.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/94f03eb52373d39aad84d964e9113c86.png",
+                "title": "UMNNJ",
+                "desc": "原生 JS 替代 jQuery API"
+            },
+            {
                 "url": "http://www.bejson.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9fa4396bbf4e88bf933075ea1b8e42df.png",
                 "title": "BeJSON",
@@ -548,13 +554,13 @@
                 "url": "https://facebook.github.io/react/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/86e28410e7a1f05dfd031a7492e2380b.png",
                 "title": "React",
-                "desc": "facebook强大的JavaScript框架"
+                "desc": "FaceBook强大的JavaScript框架"
             },
             {
                 "url": "http://cn.vuejs.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/9575bcf6b9a603083b36a3b8e4ef134a.png",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/ba92c3a3489f7bcd6d7c4decfd5398e4.png",
                 "title": "Vuejs",
-                "desc": "小巧精致,渐进式JavaScript框架"
+                "desc": "小巧精致渐进式JavaScript框架"
             },
             {
                 "url": "https://riot.js.org/",
@@ -639,6 +645,12 @@
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b9dc67dc200a74ee9f2d502a204c00c5.png",
                 "title": "WEUI",
                 "desc": "微信官方小程序UI样式库"
+            },
+            {
+                "url": "https://github.com/meili/minui",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/23936d7294fa62b11355398cd5dcfd9a.png",
+                "title": "Min",
+                "desc": "小程序自定义标签 UI 组件库"
             },
             {
                 "url": "http://getbootstrap.com/",
@@ -731,10 +743,22 @@
         "key": "gjgj",
         "items": [
             {
-                "url": "https://nodejs.org/en/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b0bf9421c023c91ce41e9ef24ac699e1.png",
-                "title": "Nodejs",
-                "desc": "基于ChromeV8引擎的JS运行环境"
+                "url": "https://www.npmjs.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/0d4e205514b9bb9d4a327021b2d68a8f.png",
+                "title": "Npmjs",
+                "desc": "JS管理包及强大的构建工具"
+            },
+            {
+                "url": "http://webpack.github.io/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/59a253fe305249289fb92e42ab6d0398.png",
+                "title": "Webpack",
+                "desc": "模块加载器兼打包工具"
+            },
+            {
+                "url": "https://parceljs.org/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/de251a958f3721ff4ffbeeaed25cae46.png",
+                "title": "Parcel",
+                "desc": "极速零配置Web应用打包工具"
             },
             {
                 "url": "https://gruntjs.com/",
@@ -755,22 +779,28 @@
                 "desc": "前端构建脚手架"
             },
             {
-                "url": "http://webpack.github.io/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/59a253fe305249289fb92e42ab6d0398.png",
-                "title": "webpack",
-                "desc": "模块加载器兼打包工具"
-            },
-            {
-                "url": "https://www.npmjs.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/0d4e205514b9bb9d4a327021b2d68a8f.png",
-                "title": "Npmjs",
-                "desc": "JS管理包及强大的构建工具"
-            },
-            {
                 "url": "https://bower.io/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/585178bb3626acb0f94ffbf00eb6d3d8.png",
                 "title": "Bower",
                 "desc": "客户端技术的软件包管理器"
+            },
+            {
+                "url": "http://fis.baidu.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/1b25e1171f89ec54573761ae3410450f.png",
+                "title": "FIS3",
+                "desc": "百度出品的前端工程构建工具"
+            },
+            {
+                "url": "https://rollupjs.org/guide/en",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/cb48fa42a9752d4d2065f4492aefb945.png",
+                "title": "Rollup.js",
+                "desc": "JavaScript 模块打包器"
+            },
+            {
+                "url": "https://nodejs.org/en/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b0bf9421c023c91ce41e9ef24ac699e1.png",
+                "title": "Nodejs",
+                "desc": "基于ChromeV8引擎的JS运行环境"
             },
             {
                 "url": "https://yarnpkg.com/zh-Hans/",
@@ -785,6 +815,12 @@
         "key": "tsjc",
         "items": [
             {
+                "url": "https://www.charlesproxy.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/aed3210e788a13093526ae75aa8196af.jpg",
+                "title": "Charles",
+                "desc": "前端抓包调试神器"
+            },
+            {
                 "url": "http://www.telerik.com/fiddler",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/2c5b4e7e1b6636ac97d9bcae65c7e857.png",
                 "title": "Fiddler",
@@ -794,43 +830,43 @@
                 "url": "http://www.httpwatch.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/f6a46672acd50069fed2536b863efa3b.png",
                 "title": "HttpWatch",
-                "desc": "一款强大的网页HTTP数据分析软件"
+                "desc": "强大的网页HTTP数据分析软件"
             },
             {
                 "url": "https://gtmetrix.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a8347ddc016b83309cfb0cef3d7100ed.png",
                 "title": "Gtmetrix",
-                "desc": "网站在线性能测试分析、优化建议"
+                "desc": "在线性能测试分析、优化建议"
             },
             {
                 "url": "http://developers.google.com/speed/pagespeed/insights/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1117ced52b1a4e0f49fc8e7e945a07a6.png",
                 "title": "PageSpeed",
-                "desc": "Google在线性能测试网站、优化建议"
+                "desc": "Google 在线性能测试、优化建议"
             },
             {
                 "url": "http://validator.w3.org/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8a50231690d48a32659c9db396106ab2.png",
                 "title": "HTML validator",
-                "desc": "W3C的HTML有效性验证"
+                "desc": "W3C 的 HTML 有效性验证"
             },
             {
                 "url": "http://jigsaw.w3.org/css-validator/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8a50231690d48a32659c9db396106ab2.png",
                 "title": "CSS validator",
-                "desc": "W3C的CSS有效性验证"
+                "desc": "W3C 的 CSS 有效性验证"
             },
             {
                 "url": "http://www.responsinator.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/d7c445032b3233c79f20d65243ffbd64.png",
                 "title": "Responsinator",
-                "desc": "各大尺寸设备响应式屏幕效果显示"
+                "desc": "各尺寸屏幕响应式效果显示"
             },
             {
                 "url": "https://turbo.net/browsers",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/66f039cd6747be19cc989c5616cbcd0a.png",
                 "title": "Browser Sandbox",
-                "desc": "各大平台浏览器兼容性在线测试"
+                "desc": "浏览器兼容性在线测试"
             }
         ]
     },

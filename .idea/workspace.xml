@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/f2e/develop.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/develop.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/f2e/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/index.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,7 +17,7 @@
     <session id="-781325772">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -31,23 +29,25 @@
         <counts>
           <entry key="gif" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="js" value="3" />
+          <entry key="html" value="1" />
+          <entry key="js" value="4" />
           <entry key="json" value="6" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="6" />
-          <entry key="JavaScript" value="3" />
+          <entry key="JavaScript" value="4" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1081" />
+          <entry key="JSON" value="1214" />
           <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
@@ -56,7 +56,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="4" />
-          <entry key="json" value="1081" />
+          <entry key="json" value="1214" />
         </counts>
       </usages-collector>
     </session>
@@ -66,14 +66,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1158">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="339">
+              <caret line="649" column="54" selection-start-line="649" selection-start-column="54" selection-end-line="649" selection-end-column="54" />
               <folding>
+                <element signature="e#6#37#0" />
+                <element signature="e#6#6667#0" />
                 <element signature="e#6673#9437#0" />
                 <element signature="e#9425#14918#0" />
                 <element signature="e#14924#20234#0" />
                 <element signature="e#20332#23355#0" />
-                <element signature="e#23246#31472#0" />
                 <element signature="e#31478#33654#0" />
                 <element signature="e#33660#35974#0" />
                 <element signature="e#35980#37913#0" />
@@ -225,12 +226,12 @@
       <workItem from="1541744928585" duration="2053000" />
       <workItem from="1541750786876" duration="628000" />
       <workItem from="1541985221020" duration="6475000" />
-      <workItem from="1542174139234" duration="278000" />
+      <workItem from="1542174139234" duration="2981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12254000" />
+    <option name="totallyTimeSpent" value="14957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1482" y="324" width="1440" height="877" extended-state="0" />
@@ -297,16 +298,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../H5/国税 2018.11.12/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../H5/国税 2018.11.12/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#52#3926#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1158">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="339">
+          <caret line="649" column="54" selection-start-line="649" selection-start-column="54" selection-end-line="649" selection-end-column="54" />
           <folding>
+            <element signature="e#6#37#0" />
+            <element signature="e#6#6667#0" />
             <element signature="e#6673#9437#0" />
             <element signature="e#9425#14918#0" />
             <element signature="e#14924#20234#0" />
             <element signature="e#20332#23355#0" />
-            <element signature="e#23246#31472#0" />
             <element signature="e#31478#33654#0" />
             <element signature="e#33660#35974#0" />
             <element signature="e#35980#37913#0" />
