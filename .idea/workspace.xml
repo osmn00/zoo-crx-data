@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/f2e/develop.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/develop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/f2e/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/index.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +19,12 @@
     <session id="-781325772">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -29,14 +32,14 @@
           <entry key="gif" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="js" value="3" />
-          <entry key="json" value="4" />
+          <entry key="json" value="6" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="JSON" value="4" />
+          <entry key="JSON" value="6" />
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -44,7 +47,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="909" />
+          <entry key="JSON" value="1081" />
           <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
@@ -53,63 +56,44 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="4" />
-          <entry key="json" value="909" />
+          <entry key="json" value="1081" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="366">
-                  <caret line="30" column="110" selection-start-line="30" selection-start-column="110" selection-end-line="30" selection-end-column="110" />
-                  <folding>
-                    <element signature="e#5565#8311#0" />
-                    <element signature="e#1457#6767#0" />
-                    <element signature="e#5443#11478#0" />
-                    <element signature="e#17037#19213#0" />
-                    <element signature="e#19219#21533#0" />
-                    <element signature="e#17037#18970#0" />
-                    <element signature="e#32385#34550#0" />
-                    <element signature="e#34556#35702#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="340" column="6" selection-start-line="340" selection-start-column="6" selection-end-line="340" selection-end-column="6" />
-                  <folding>
-                    <element signature="e#6#5436#0" />
-                    <element signature="e#5565#8311#0" />
-                    <element signature="e#8317#13810#0" />
-                    <element signature="e#1454#6764#0" />
-                    <element signature="e#12252#15252#0" />
-                    <element signature="e#5449#11484#0" />
-                    <element signature="e#17037#19213#0" />
-                    <element signature="e#19219#21533#0" />
-                    <element signature="e#17038#18971#0" />
-                    <element signature="e#32391#34556#0" />
-                    <element signature="e#34562#35708#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1158">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding>
+                <element signature="e#6673#9437#0" />
+                <element signature="e#9425#14918#0" />
+                <element signature="e#14924#20234#0" />
+                <element signature="e#20332#23355#0" />
+                <element signature="e#23246#31472#0" />
+                <element signature="e#31478#33654#0" />
+                <element signature="e#33660#35974#0" />
+                <element signature="e#35980#37913#0" />
+                <element signature="e#37919#40084#0" />
+                <element signature="e#40090#41236#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/f2e/index.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,8 +146,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1482" />
+    <option name="y" value="324" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -175,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,7 +183,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,18 +224,19 @@
       <workItem from="1541424074868" duration="607000" />
       <workItem from="1541744928585" duration="2053000" />
       <workItem from="1541750786876" duration="628000" />
-      <workItem from="1541985221020" duration="6131000" />
+      <workItem from="1541985221020" duration="6475000" />
+      <workItem from="1542174139234" duration="278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11632000" />
+    <option name="totallyTimeSpent" value="12254000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="1482" y="324" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14023961" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14023961" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,24 +292,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/index.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        <state relative-caret-position="585">
+          <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="30" column="110" selection-start-line="30" selection-start-column="110" selection-end-line="30" selection-end-column="110" />
+        <state relative-caret-position="-1158">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="e#5565#8311#0" />
-            <element signature="e#1457#6767#0" />
-            <element signature="e#5443#11478#0" />
-            <element signature="e#17037#19213#0" />
-            <element signature="e#19219#21533#0" />
-            <element signature="e#17037#18970#0" />
-            <element signature="e#32385#34550#0" />
-            <element signature="e#34556#35702#0" />
+            <element signature="e#6673#9437#0" />
+            <element signature="e#9425#14918#0" />
+            <element signature="e#14924#20234#0" />
+            <element signature="e#20332#23355#0" />
+            <element signature="e#23246#31472#0" />
+            <element signature="e#31478#33654#0" />
+            <element signature="e#33660#35974#0" />
+            <element signature="e#35980#37913#0" />
+            <element signature="e#37919#40084#0" />
+            <element signature="e#40090#41236#0" />
           </folding>
         </state>
       </provider>

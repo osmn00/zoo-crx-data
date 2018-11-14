@@ -1,6 +1,7 @@
 [
     {
-        "title": "常用推荐",
+        "title": "公司应用",
+        "key": "gsyy",
         "items": [
             {
                 "url": "https://git.cai-inc.com/",
@@ -85,7 +86,13 @@
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/edbe603874041155669cbe76ee5ec404.png",
                 "title": "邮箱服务",
                 "desc": "政采云企业邮箱服务"
-            },
+            }
+        ]
+    },
+    {
+        "title": "常用推荐",
+        "key": "cytj",
+        "items": [
             {
                 "url": "https://tinypng.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/c20ee73101eb735ad86f0ed278f43523.jpg",
@@ -150,6 +157,7 @@
     },
     {
         "title": "效果资源",
+        "key": "xgzy",
         "items": [
             {
                 "url": "http://iconfont.cn",
@@ -215,6 +223,7 @@
     },
     {
         "title": "学习平台",
+        "key": "xxpt",
         "items": [
             {
                 "url": "http://www.w3schools.com/",
@@ -341,6 +350,7 @@
     },
     {
         "title": "在线编程",
+        "key": "zxbc",
         "items": [
             {
                 "url": "http://runjs.cn/",
@@ -459,7 +469,8 @@
         ]
     },
     {
-        "title": "论坛社区",
+        "title": "社区论坛",
+        "key": "sqlt",
         "items": [
             {
                 "url": "https://segmentfault.com/",
@@ -531,6 +542,7 @@
     },
     {
         "title": "前端框架",
+        "key": "qdkj",
         "items": [
             {
                 "url": "https://facebook.github.io/react/",
@@ -716,6 +728,7 @@
     },
     {
         "title": "构建工具",
+        "key": "gjgj",
         "items": [
             {
                 "url": "https://nodejs.org/en/",
@@ -769,6 +782,7 @@
     },
     {
         "title": "调试检测",
+        "key": "tsjc",
         "items": [
             {
                 "url": "http://www.telerik.com/fiddler",
@@ -822,6 +836,7 @@
     },
     {
         "title": "代码托管",
+        "key": "dmtg",
         "items": [
             {
                 "url": "https://github.com/",
@@ -869,6 +884,7 @@
     },
     {
         "title": "内容管理",
+        "key": "nrgl",
         "items": [
             {
                 "url": "https://wordpress.org/",
@@ -922,6 +938,7 @@
     },
     {
         "title": "操作系统",
+        "key": "czxt",
         "items": [
             {
                 "url": "https://www.ubuntu.com/",
