@@ -47,7 +47,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1254" />
+          <entry key="JSON" value="1263" />
           <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
@@ -56,7 +56,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="4" />
-          <entry key="json" value="1254" />
+          <entry key="json" value="1263" />
         </counts>
       </usages-collector>
     </session>
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/f2e/article-categories.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+            <state relative-caret-position="431">
+              <caret line="205" column="18" selection-start-line="205" selection-start-column="18" selection-end-line="205" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -215,12 +215,12 @@
       <workItem from="1541750786876" duration="628000" />
       <workItem from="1541985221020" duration="6475000" />
       <workItem from="1542174139234" duration="2981000" />
-      <workItem from="1542245010896" duration="411000" />
+      <workItem from="1542245010896" duration="709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15368000" />
+    <option name="totallyTimeSpent" value="15666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1482" y="324" width="1440" height="877" extended-state="0" />
@@ -299,8 +299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/article-categories.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        <state relative-caret-position="431">
+          <caret line="205" column="18" selection-start-line="205" selection-start-column="18" selection-end-line="205" selection-end-column="18" />
         </state>
       </provider>
     </entry>
