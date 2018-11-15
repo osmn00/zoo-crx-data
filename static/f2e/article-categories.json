@@ -27,12 +27,16 @@
             "label": "表现",
             "children": [
                 {
-                    "value": "CSS3 基础",
-                    "label": "CSS3 基础"
+                    "value": "CSS 基础",
+                    "label": "CSS 基础"
                 },
                 {
                     "value": "CSS3",
                     "label": "CSS3"
+                },
+                {
+                    "value": "CSS 进阶",
+                    "label": "CSS 进阶"
                 },
                 {
                     "value": "CSS 动画",
@@ -184,6 +188,14 @@
                     "value": "技巧",
                     "label": "技巧"
                 },
+                {
+                    "value": "性能",
+                    "label": "性能"
+                },
+                {
+                    "value": "体验",
+                    "label": "体验"
+                }
                 {
                     "value": "职业",
                     "label": "职业"

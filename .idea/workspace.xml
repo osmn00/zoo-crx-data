@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/static/f2e/develop.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/develop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/f2e/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/article-categories.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,10 +19,10 @@
         <counts>
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,7 +47,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1214" />
+          <entry key="JSON" value="1225" />
           <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
@@ -56,40 +56,27 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="4" />
-          <entry key="json" value="1214" />
+          <entry key="json" value="1225" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="339">
               <caret line="649" column="54" selection-start-line="649" selection-start-column="54" selection-end-line="649" selection-end-column="54" />
-              <folding>
-                <element signature="e#6#37#0" />
-                <element signature="e#6#6667#0" />
-                <element signature="e#6673#9437#0" />
-                <element signature="e#9425#14918#0" />
-                <element signature="e#14924#20234#0" />
-                <element signature="e#20332#23355#0" />
-                <element signature="e#31478#33654#0" />
-                <element signature="e#33660#35974#0" />
-                <element signature="e#35980#37913#0" />
-                <element signature="e#37919#40084#0" />
-                <element signature="e#40090#41236#0" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/f2e/index.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/f2e/article-categories.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
+            <state relative-caret-position="15">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -131,8 +118,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/static/f2e/index.json" />
         <option value="$PROJECT_DIR$/static/f2e/develop.json" />
+        <option value="$PROJECT_DIR$/static/f2e/index.json" />
       </list>
     </option>
   </component>
@@ -227,11 +214,12 @@
       <workItem from="1541750786876" duration="628000" />
       <workItem from="1541985221020" duration="6475000" />
       <workItem from="1542174139234" duration="2981000" />
+      <workItem from="1542245010896" duration="300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14957000" />
+    <option name="totallyTimeSpent" value="15257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1482" y="324" width="1440" height="877" extended-state="0" />
@@ -291,13 +279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/f2e/index.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../H5/国税 2018.11.12/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -305,9 +286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#52#3926#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -315,19 +293,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="649" column="54" selection-start-line="649" selection-start-column="54" selection-end-line="649" selection-end-column="54" />
-          <folding>
-            <element signature="e#6#37#0" />
-            <element signature="e#6#6667#0" />
-            <element signature="e#6673#9437#0" />
-            <element signature="e#9425#14918#0" />
-            <element signature="e#14924#20234#0" />
-            <element signature="e#20332#23355#0" />
-            <element signature="e#31478#33654#0" />
-            <element signature="e#33660#35974#0" />
-            <element signature="e#35980#37913#0" />
-            <element signature="e#37919#40084#0" />
-            <element signature="e#40090#41236#0" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/f2e/article-categories.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
