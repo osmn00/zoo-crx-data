@@ -181,6 +181,20 @@
             ]
         },
         {
+            "value": "其他基础",
+            "label": "其他基础",
+            "children": [
+                {
+                    "value": "HTTP",
+                    "label": "HTTP"
+                },
+                {
+                    "value": "Nginx",
+                    "label": "Nginx"
+                }
+            ]
+        },
+        {
             "value": "总结&布道",
             "label": "总结&布道",
             "children": [
