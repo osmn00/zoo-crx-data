@@ -44,7 +44,7 @@
                 },
                 {
                     "value": "canvas",
-                    "label": "canvas"
+                    "label": "Canvas"
                 }
             ]
         },
@@ -191,6 +191,10 @@
                 {
                     "value": "技巧",
                     "label": "技巧"
+                },
+                {
+                    "value": "汇总",
+                    "label": "汇总"
                 },
                 {
                     "value": "性能",
