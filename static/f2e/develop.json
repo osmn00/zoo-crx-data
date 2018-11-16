@@ -232,6 +232,78 @@
         "key": "xxpt",
         "items": [
             {
+                "url": "https://developer.mozilla.org/zh-CN/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a2712caabc83c6d46933b6944abc487e.png",
+                "title": "Mozilla 开发者",
+                "desc": "有关开放网络技术的一切"
+            },
+            {
+                "url": "https://segmentfault.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/da9ef5a7963065d0f7c15a3cc6febf1d.png",
+                "title": "Segmentfault",
+                "desc": "编程爱好者技术交流的平台"
+            },
+            {
+                "url": "http://stackoverflow.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6a0e2f1338a111de4651a87729a6435f.png",
+                "title": "Stackoverflow",
+                "desc": "全球专业的程序员IT技术问答社区"
+            },
+            {
+                "url": "https://juejin.im/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3b23693ede5b45ff2e803b83e11e50b9.png",
+                "title": "掘金",
+                "desc": "高质量的技术社区"
+            },
+            {
+                "url": "http://www.v2ex.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/21107ff6e302f6514c881d086f8e3c1c.png",
+                "title": "V2EX",
+                "desc": "IT创意工作者社区"
+            },
+            {
+                "url": "https://cnodejs.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/7c9e6476f33ce98458fd5a7078d81496.png",
+                "title": "cnode",
+                "desc": "js专业中文社区"
+            },
+            {
+                "url": "https://news.ycombinator.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/03fff51e6410a52951a4017d37ce2fff.png",
+                "title": "HackerNews",
+                "desc": "HackerNews黑客极客社区"
+            },
+            {
+                "url": "http://www.oschina.net/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8560fef3956938ed3b31fefbe866b7d4.png",
+                "title": "开源中国",
+                "desc": "目前国内最大的开源技术社区"
+            },
+            {
+                "url": "https://laravel-china.org/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b5488026e455bf405035566bf950ee3e.png",
+                "title": "LaravelChina",
+                "desc": "PHP和Laravel开发者社区"
+            },
+            {
+                "url": "https://www.diycode.cc/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/700282010713ab4b2f687257111979b0.png",
+                "title": "DiyCode",
+                "desc": "致力于构建开发工程师社区"
+            },
+            {
+                "url": "https://coding.net/pp",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/55de6b2d73868979ed047799435965f0.png",
+                "title": "Coding冒泡",
+                "desc": "开发者交流分享社区"
+            },
+            {
+                "url": "http://www.guanggoo.com/",
+                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6df3c145033cb589100d9a7d0dd8360f.png",
+                "title": "光谷社区",
+                "desc": "武汉光谷互联网IT社区"
+            },
+            {
                 "url": "http://www.w3schools.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/cb6210d1bb1d5aa518b01c8320b04be9.png",
                 "title": "W3Schools",
@@ -246,7 +318,7 @@
             {
                 "url": "https://platform.html5.org/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b628a81d1b93325d9597f2ba9b3e23ec.png",
-                "title": "html5 Platform",
+                "title": "HTML5 Platform",
                 "desc": "HTML5的Web浏览技术图谱"
             },
             {
@@ -265,7 +337,7 @@
             {
                 "url": "http://www.w3school.com.cn/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/1caf69fcd16d3e630f23bff84084870a.png",
-                "title": "w3school中文",
+                "title": "W3School 中文",
                 "desc": "编程入门学习及技术文档查询网站"
             },
             {
@@ -289,7 +361,7 @@
             {
                 "url": "http://www.cssplay.co.uk/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/0c2a6d2a51bed9a1a33afdf0e347fcf2.png",
-                "title": "CSS Play",
+                "title": "CSSplay",
                 "desc": "老牌站点，纯CSS能力展示"
             },
             {
@@ -301,19 +373,13 @@
             {
                 "url": "https://cn.udacity.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/ae194a02402a30234f7d511934971702.png",
-                "title": "udacity",
+                "title": "UdaCity",
                 "desc": "传授硅谷的名企官方课程"
-            },
-            {
-                "url": "https://developer.mozilla.org/zh-CN/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a2712caabc83c6d46933b6944abc487e.png",
-                "title": "mozilla开发者",
-                "desc": "开发者网络(MDN)提供有关开放网络技术"
             },
             {
                 "url": "http://www.webplatform.org/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/a83b51e229150d0634afe624558a5971.png",
-                "title": "webplatform",
+                "title": "WebPlatform",
                 "desc": "发布Web标准有关的最新以及高品质信息"
             },
             {
@@ -331,7 +397,7 @@
             {
                 "url": "http://www.jstips.co/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/41983fe82d6f58dd07199f39516a2e8e.png",
-                "title": "JStips",
+                "title": "JSTips",
                 "desc": "每天一条JS小知识点"
             },
             {
@@ -350,7 +416,121 @@
                 "url": "https://www.liaoxuefeng.com",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/047f567df5c1c4594d97131896fc8286.png",
                 "title": "廖雪峰",
-                "desc": "力荐：精品编程教程技术大牛博客"
+                "desc": "精品编程教程技术大牛博客"
+            },
+            {
+                "url": "https://www.zhangxinxu.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/72e4f049fb378012015309c4eab82325.png",
+                "title": "张鑫旭",
+                "desc": "优秀的前端技术博客"
+            },
+            {
+                "url": "http://www.ruanyifeng.com/blog/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/3c98031dbd5c8ba87cc30b3e22f3bf8a.png",
+                "title": "阮一峰",
+                "desc": "阮一峰的网络日志"
+            }
+        ]
+    },
+    {
+        "title": "优秀团队",
+        "key": "sqlt",
+        "items": [
+            {
+                "url": "http://taobaofed.org/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/44c4af3b5787aebf4982cb56714c2deb.png",
+                "title": "TaoBao FED",
+                "desc": "用技术为体验提供无限可能"
+            },
+            {
+                "url": "http://fex.baidu.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2ea185bfaf4c5b6599b8ede4fed0c00c.png",
+                "title": "Baidu FEX",
+                "desc": "百度 Web 前端研发部"
+            },
+            {
+                "url": "http://www.alloyteam.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/56389b8125ffbed6ebc975d257a8bc36.png",
+                "title": "AlloyTeam",
+                "desc": "腾讯 SNG Web 前端团队"
+            },
+            {
+                "url": "https://75team.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/33bbdd2f87243910e78bf6e4cac64866.png",
+                "title": "奇舞团",
+                "desc": "360 Web 前端开发团队"
+            },
+            {
+                "url": "https://aotu.io/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/d2d62a3cd63f6ea59562da2f124672d1.png",
+                "title": "凹凸实验室",
+                "desc": "京东 Web 前端团队"
+            },
+            {
+                "url": "https://ymfe.org/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/7b7f1ec334796341e5386cdb531f518c.png",
+                "title": "YMFE",
+                "desc": "去哪儿网大前端技术中心"
+            },
+            {
+                "url": "http://jdc.jd.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/39f7a289a72d81551012a83c76f27466.png",
+                "title": "JDC",
+                "desc": "京东设计中心"
+            },
+            {
+                "url": "https://fe.ele.me",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2aee2858eaff91a132f3feb4bee94104.png",
+                "title": "ElemeFE",
+                "desc": "饿了么前端开发团队"
+            },
+            {
+                "url": "http://ued.ctrip.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/1fabb504089504de16bba1d68a7b62f4.png",
+                "title": "Trip UED",
+                "desc": "携程设计委员会"
+            },
+            {
+                "url": "https://tech.meituan.com/tag/%E5%89%8D%E7%AB%AF",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a158a6cc7fb33beac62927c4d9b86d27.png",
+                "title": "美团 FED",
+                "desc": "美团前端开发团队"
+            },
+            {
+                "url": "http://www.aliued.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a6b24462e57ad7d212022b3074804784.png",
+                "title": "Ali UED",
+                "desc": "阿里巴巴国际 UED 团队"
+            },
+            {
+                "url": "http://www.aliued.cn/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/77ab8f3a041b972891a06206bd69b62f.png",
+                "title": "U一点",
+                "desc": "阿里巴巴(中文站) UED"
+            },
+            {
+                "url": "https://mux.alimama.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/66401062c713e9f836de2dec5fcbc518.png",
+                "title": "MUX",
+                "desc": "阿里妈妈 MUX"
+            },
+            {
+                "url": "http://imweb.io/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/ad45f0d83b554f0fc34c444b701b626c.png",
+                "title": "IMWeb",
+                "desc": "腾讯 IMWeb 前端团队"
+            },
+            {
+                "url": "https://webfe.kujiale.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2836eb0112c546183203b73d8201c632.png",
+                "title": "酷家乐前端团队",
+                "desc": "酷家乐前端团队博客"
+            },
+            {
+                "url": "https://blog.souche.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2354bd1ca9a22b3251e09f848ea33c2a.png",
+                "title": "大搜车研发团队",
+                "desc": "大搜车研发团队博客"
             }
         ]
     },
@@ -475,78 +655,6 @@
         ]
     },
     {
-        "title": "学习社区",
-        "key": "sqlt",
-        "items": [
-            {
-                "url": "https://segmentfault.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/da9ef5a7963065d0f7c15a3cc6febf1d.png",
-                "title": "Segmentfault",
-                "desc": "编程爱好者技术交流的平台"
-            },
-            {
-                "url": "http://stackoverflow.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6a0e2f1338a111de4651a87729a6435f.png",
-                "title": "Stackoverflow",
-                "desc": "全球专业的程序员IT技术问答社区"
-            },
-            {
-                "url": "https://juejin.im/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3b23693ede5b45ff2e803b83e11e50b9.png",
-                "title": "掘金",
-                "desc": "高质量的技术社区"
-            },
-            {
-                "url": "http://www.v2ex.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/21107ff6e302f6514c881d086f8e3c1c.png",
-                "title": "V2EX",
-                "desc": "IT创意工作者社区"
-            },
-            {
-                "url": "https://cnodejs.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/7c9e6476f33ce98458fd5a7078d81496.png",
-                "title": "cnode",
-                "desc": "js专业中文社区"
-            },
-            {
-                "url": "https://news.ycombinator.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/03fff51e6410a52951a4017d37ce2fff.png",
-                "title": "HackerNews",
-                "desc": "HackerNews黑客极客社区"
-            },
-            {
-                "url": "http://www.oschina.net/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/8560fef3956938ed3b31fefbe866b7d4.png",
-                "title": "开源中国",
-                "desc": "目前国内最大的开源技术社区"
-            },
-            {
-                "url": "https://laravel-china.org/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b5488026e455bf405035566bf950ee3e.png",
-                "title": "LaravelChina",
-                "desc": "PHP和Laravel开发者社区"
-            },
-            {
-                "url": "https://www.diycode.cc/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/700282010713ab4b2f687257111979b0.png",
-                "title": "DiyCode",
-                "desc": "致力于构建开发工程师社区"
-            },
-            {
-                "url": "https://coding.net/pp",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/55de6b2d73868979ed047799435965f0.png",
-                "title": "Coding冒泡",
-                "desc": "开发者交流分享社区"
-            },
-            {
-                "url": "http://www.guanggoo.com/",
-                "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/6df3c145033cb589100d9a7d0dd8360f.png",
-                "title": "光谷社区",
-                "desc": "武汉光谷互联网IT社区"
-            }
-        ]
-    },
-    {
         "title": "前端框架",
         "key": "qdkj",
         "items": [
@@ -647,7 +755,7 @@
                 "desc": "微信官方小程序UI样式库"
             },
             {
-                "url": "https://github.com/meili/minui",
+                "url": "https://meili.github.io/min/docs/minui/",
                 "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/23936d7294fa62b11355398cd5dcfd9a.png",
                 "title": "Min",
                 "desc": "小程序自定义标签 UI 组件库"
