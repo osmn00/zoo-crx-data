@@ -503,6 +503,12 @@
                 "desc": "饿了么前端开发团队"
             },
             {
+                "url": "https://tech.meituan.com/tag/%E5%89%8D%E7%AB%AF",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a158a6cc7fb33beac62927c4d9b86d27.png",
+                "title": "美团 FED",
+                "desc": "美团前端开发团队"
+            },
+            {
                 "url": "http://feg.netease.com/",
                 "icon": "http://s3.mogucdn.com/mlcdn/c45406/181118_5d0d4hdejl55a09f6h1b30g8lae19_130x130.png",
                 "title": "网易 FEG",
@@ -513,12 +519,6 @@
                 "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/1fabb504089504de16bba1d68a7b62f4.png",
                 "title": "Trip UED",
                 "desc": "携程设计委员会"
-            },
-            {
-                "url": "https://tech.meituan.com/tag/%E5%89%8D%E7%AB%AF",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a158a6cc7fb33beac62927c4d9b86d27.png",
-                "title": "美团 FED",
-                "desc": "美团前端开发团队"
             },
             {
                 "url": "https://mux.alimama.com/",
