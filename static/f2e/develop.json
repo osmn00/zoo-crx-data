@@ -473,16 +473,28 @@
                 "desc": "京东 Web 前端团队"
             },
             {
-                "url": "https://ymfe.org/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/7b7f1ec334796341e5386cdb531f518c.png",
-                "title": "YMFE",
-                "desc": "去哪儿网大前端技术中心"
-            },
-            {
                 "url": "http://jdc.jd.com/",
                 "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/39f7a289a72d81551012a83c76f27466.png",
                 "title": "JDC",
                 "desc": "京东设计中心"
+            },
+            {
+                "url": "http://www.aliued.com/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a6b24462e57ad7d212022b3074804784.png",
+                "title": "Ali UED",
+                "desc": "阿里巴巴国际 UED 团队"
+            },
+            {
+                "url": "http://www.aliued.cn/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/77ab8f3a041b972891a06206bd69b62f.png",
+                "title": "U一点",
+                "desc": "阿里巴巴(中文站) UED"
+            },
+            {
+                "url": "https://ymfe.org/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/7b7f1ec334796341e5386cdb531f518c.png",
+                "title": "YMFE",
+                "desc": "去哪儿网大前端技术中心"
             },
             {
                 "url": "https://fe.ele.me",
@@ -509,18 +521,6 @@
                 "desc": "美团前端开发团队"
             },
             {
-                "url": "http://www.aliued.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a6b24462e57ad7d212022b3074804784.png",
-                "title": "Ali UED",
-                "desc": "阿里巴巴国际 UED 团队"
-            },
-            {
-                "url": "http://www.aliued.cn/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/77ab8f3a041b972891a06206bd69b62f.png",
-                "title": "U一点",
-                "desc": "阿里巴巴(中文站) UED"
-            },
-            {
                 "url": "https://mux.alimama.com/",
                 "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/66401062c713e9f836de2dec5fcbc518.png",
                 "title": "MUX",
@@ -531,6 +531,12 @@
                 "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/ad45f0d83b554f0fc34c444b701b626c.png",
                 "title": "IMWeb",
                 "desc": "腾讯 IMWeb 前端团队"
+            },
+            {
+                "url": "https://tech.youzan.com/tag/front-end/",
+                "icon": "http://s11.mogucdn.com/mlcdn/c45406/181118_866dleack69c7k1895bl0hc1604jk_130x130.png",
+                "title": "有赞 FED",
+                "desc": "有赞前端开发团队"
             },
             {
                 "url": "https://fed.renren.com/",
