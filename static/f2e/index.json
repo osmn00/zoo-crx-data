@@ -95,6 +95,10 @@
                     "label": "Parcel"
                 },
                 {
+                    "value": "调试",
+                    "label": "调试"
+                },
+                {
                     "value": "自动化测试",
                     "label": "自动化测试"
                 },
