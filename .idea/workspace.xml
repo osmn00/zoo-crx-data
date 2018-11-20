@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/static/f2e/develop.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/develop.json" afterDir="false" />
-    </list>
+    <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +15,7 @@
     <session id="-781325772">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
@@ -76,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="1003" column="6" lean-forward="true" selection-start-line="1003" selection-start-column="6" selection-end-line="1003" selection-end-column="6" />
+            <state relative-caret-position="210">
+              <caret line="1137" lean-forward="true" selection-start-line="1137" selection-end-line="1137" />
               <folding>
                 <element signature="e#6#4036#0" />
                 <element signature="e#4042#7062#0" />
@@ -234,12 +232,12 @@
       <workItem from="1542268026348" duration="245000" />
       <workItem from="1542272138249" duration="405000" />
       <workItem from="1542342312482" duration="4537000" />
-      <workItem from="1542519153817" duration="2187000" />
+      <workItem from="1542519153817" duration="2402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24633000" />
+    <option name="totallyTimeSpent" value="24848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -318,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="1003" column="6" lean-forward="true" selection-start-line="1003" selection-start-column="6" selection-end-line="1003" selection-end-column="6" />
+        <state relative-caret-position="210">
+          <caret line="1137" lean-forward="true" selection-start-line="1137" selection-end-line="1137" />
           <folding>
             <element signature="e#6#4036#0" />
             <element signature="e#4042#7062#0" />
