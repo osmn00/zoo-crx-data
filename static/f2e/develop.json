@@ -346,6 +346,12 @@
                 "desc": "酷家乐前端团队博客"
             },
             {
+                "url": "http://zzfe.org/#/list",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/ae69be9ea43fd57cd92cbb0f2cee4aaa.png",
+                "title": "大转转前端",
+                "desc": "一个有趣的前端团队"
+            },
+            {
                 "url": "https://fed.renren.com/",
                 "icon": "http://s3.mogucdn.com/mlcdn/c45406/181118_3ed4dlk6k4dj0f6391549khc04b4f_361x363.png",
                 "title": "人人网 FED",
