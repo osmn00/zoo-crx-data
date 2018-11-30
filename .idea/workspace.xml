@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/static/f2e/books.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/books.json" afterDir="false" />
-    </list>
+    <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +15,7 @@
     <session id="-781325772">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.2" value="1" />
@@ -49,7 +47,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="2396" />
+          <entry key="JSON" value="2403" />
           <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
@@ -58,23 +56,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="4" />
-          <entry key="json" value="2396" />
+          <entry key="json" value="2403" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/f2e/books.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="641" column="21" selection-start-line="641" selection-start-column="14" selection-end-line="641" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,7 +73,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>GitLab</find>
       <find>min</find>
       <find>www.zcfy.cc</find>
       <find>&quot;ishot&quot;: 0</find>
@@ -115,6 +102,7 @@
       <find>ionic</find>
       <find>title</find>
       <find>网站重构</find>
+      <find>渐进增强</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;thumb&quot;</replace>
@@ -247,16 +235,15 @@
       <workItem from="1543483623098" duration="963000" />
       <workItem from="1543550954683" duration="376000" />
       <workItem from="1543554028393" duration="1890000" />
-      <workItem from="1543557816551" duration="4466000" />
+      <workItem from="1543557816551" duration="5038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38923000" />
+    <option name="totallyTimeSpent" value="39495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14023961" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -338,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/books.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="641" column="21" selection-start-line="641" selection-start-column="14" selection-end-line="641" selection-end-column="21" />
+        <state relative-caret-position="270">
+          <caret line="629" column="28" lean-forward="true" selection-start-line="629" selection-start-column="28" selection-end-line="629" selection-end-column="28" />
         </state>
       </provider>
     </entry>
