@@ -65,6 +65,10 @@
                     "label": "TypeScript"
                 },
                 {
+                    "value": "WebAssembly",
+                    "label": "WebAssembly"
+                },
+                {
                     "value": "设计模式",
                     "label": "设计模式"
                 }
