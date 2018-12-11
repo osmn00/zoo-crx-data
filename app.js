@@ -51,8 +51,6 @@ http.createServer(function (req, res) {
     let realPath = __dirname + "/static" + pathname;
     let _callback = querystring.parse(url.parse(req.url).query).callback;
 
-    console.log(_callback, res.write.bind(res))
-
     fs.exists(realPath, function (exists) {
         if (!exists) {
             return page_404(req, res, pathname);
@@ -65,7 +63,8 @@ http.createServer(function (req, res) {
 
             if (_callback) {
                 file.on('data', function (data) {
-                    res.end(_callback + '(' + data.toString() + ')')
+                    res.writeHead(200, {'Content-Type':'text/html;charset=utf-8'});
+                    res.end(_callback + '({"data": ' + data.toString() + '})')
                 });
             } else {
                 file.on('data', res.write.bind(res));
