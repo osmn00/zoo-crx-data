@@ -96,7 +96,7 @@
             {
                 "url": "https://tinypng.com/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/c20ee73101eb735ad86f0ed278f43523.jpg",
-                "title": "TingPNG",
+                "title": "TinyPNG",
                 "desc": "网红在线图片压缩服务"
             },
             {
@@ -104,6 +104,12 @@
                 "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/040e6fd24cc8907f5dbd4157fd5221a9.png",
                 "title": "MarkMan",
                 "desc": "设计稿标注、测量神器"
+            },
+            {
+                "url": "http://www.hellofont.cn/",
+                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/e8070d5e96f91c612160161175083426.png",
+                "title": "字由",
+                "desc": "强烈推荐的字体利器"
             },
             {
                 "url": "http://youmightnotneedjquery.com/",
