@@ -203,6 +203,10 @@
                 {
                     "value": "编译",
                     "label": "编译"
+                },
+                {
+                    "value": "AST",
+                    "label": "AST"
                 }
             ]
         },
