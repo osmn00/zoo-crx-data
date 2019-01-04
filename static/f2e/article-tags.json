@@ -1,0 +1,106 @@
+[
+    {
+        "value": "结构",
+        "children": [
+            "HTML 基础",
+            "HTML5",
+            "语义化",
+            "可访问性",
+            "兼容性"
+        ]
+    },
+    {
+        "value": "表现",
+        "children": [
+            "CSS 基础",
+            "CSS 布局",
+            "CSS 进阶",
+            "CSS 动画"
+        ]
+    },
+    {
+        "value": "行为",
+        "children": [
+            "JS 基础",
+            "TypeScript",
+            "Canvas",
+            "WebAssembly",
+            "设计模式"
+        ]
+    },
+    {
+        "value": "工具",
+        "children": [
+            "npm",
+            "Yarn",
+            "Git",
+            "Webpack",
+            "Parcel",
+            "调试",
+            "自动化测试",
+            "PostCSS",
+            "Less",
+            "Sass",
+            "*Lint"
+        ]
+    },
+    {
+        "value": "框架",
+        "children": [
+            "React",
+            "Vue",
+            "小程序",
+            "Electron",
+            "DSL",
+            "Flutter",
+            "ReactNative",
+            "Weex"
+        ]
+    },
+    {
+        "value": "理念",
+        "children": [
+            "PWA",
+            "Flux",
+            "GraphQL"
+        ]
+    },
+    {
+        "value": "RunTime",
+        "children": [
+            "浏览器",
+            "NodeJS",
+            "WebView",
+            "IoT",
+            "Extensions"
+        ]
+    },
+    {
+        "value": "周边基础",
+        "children": [
+            "HTTP",
+            "nginx",
+            "AST"
+        ]
+    },
+    {
+        "value": "总结",
+        "children": [
+            "汇总",
+            "方案",
+            "技巧",
+            "性能",
+            "安全",
+            "体验",
+            "趋势",
+            "悟道"
+        ]
+    },
+    {
+        "value": "新闻",
+        "children": [
+            "业界新闻",
+            "技术会议"
+        ]
+    }
+]
