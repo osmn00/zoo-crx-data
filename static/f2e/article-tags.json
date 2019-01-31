@@ -80,6 +80,7 @@
         "children": [
             "HTTP",
             "nginx",
+            "Docker",
             "AST"
         ]
     },
