@@ -220,6 +220,12 @@
                 "desc": "Web 数据可视化聚合站点"
             },
             {
+                "url": "http://www.popodv.com/",
+                "icon": "http://www.popodv.com/images/logo.png",
+                "title": "PoPo",
+                "desc": "每日 30 秒小代码段"
+            },
+            {
                 "url": "https://tympanus.net/codrops/",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/b3b592b7d151014ebf5cfe3e79bbd577.png",
                 "title": "codrops",
