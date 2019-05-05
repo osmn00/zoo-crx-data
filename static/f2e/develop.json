@@ -10,13 +10,13 @@
                 "desc": "政采云内网 Gitlab 平台"
             },
             {
-                "url": "http://tools-front.cai-inc.com/oss",
+                "url": "http://ipaas.cai-inc.com/feamps/#/tools/oss",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/3bffde4d6a2c4ac8ef1973d722a965c3.png",
                 "title": "Image Upload",
                 "desc": "政采云内网图床服务"
             },
             {
-                "url": "http://tools-front.cai-inc.com/oss-image-handle",
+                "url": "http://ipaas.cai-inc.com/feamps/#/tools/oss/handler",
                 "icon": "http://sitecdn.zcy.gov.cn/zcy-front-other-upload/5465cad88d154d9053425e979e2d57ff.png",
                 "title": "CDN 图片体积优化",
                 "desc": "政采云 CDN 图片优化服务"
@@ -218,12 +218,6 @@
                 "icon": "http://www.popodv.com/images/logo.png",
                 "title": "PoPo",
                 "desc": "Web 数据可视化聚合站点"
-            },
-            {
-                "url": "http://www.popodv.com/",
-                "icon": "http://www.popodv.com/images/logo.png",
-                "title": "PoPo",
-                "desc": "每日 30 秒小代码段"
             },
             {
                 "url": "https://tympanus.net/codrops/",
