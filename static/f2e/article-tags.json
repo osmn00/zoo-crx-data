@@ -58,14 +58,6 @@
         ]
     },
     {
-        "value": "理念",
-        "children": [
-            "PWA",
-            "Flux",
-            "GraphQL"
-        ]
-    },
-    {
         "value": "RunTime",
         "children": [
             "V8",
@@ -77,8 +69,12 @@
         ]
     },
     {
-        "value": "周边基础",
+        "value": "前端周边",
         "children": [
+            "AI",
+            "PWA",
+            "Flux",
+            "GraphQL",
             "HTTP",
             "nginx",
             "Docker",
