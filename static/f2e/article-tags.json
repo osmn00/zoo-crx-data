@@ -58,6 +58,12 @@
         ]
     },
     {
+        "value": "架构模式",
+        "children": [
+            "Serverless"
+        ]
+    },
+    {
         "value": "RunTime",
         "children": [
             "V8",
