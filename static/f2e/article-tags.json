@@ -1,47 +1,44 @@
 [
     {
-        "value": "结构",
+        "value": "基础",
         "children": [
-            "HTML 基础",
-            "HTML5",
-            "语义化",
-            "可访问性",
-            "兼容性"
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "NodeJS"
         ]
     },
     {
-        "value": "表现",
+        "value": "语言",
         "children": [
-            "CSS 基础",
-            "CSS 布局",
-            "CSS 进阶",
-            "CSS 动画"
+            "WebAssembly"
         ]
     },
     {
-        "value": "行为",
+        "value": "架构",
         "children": [
-            "JS 基础",
+            "设计模式",
+            "GraphQL",
+            "Serverless",
+            "MVVM"
+        ]
+    },
+    {
+        "value": "语法增强",
+        "children": [
             "TypeScript",
-            "Canvas",
-            "WebAssembly",
-            "设计模式"
+            "PostCSS",
+            "Less",
+            "Sass"
         ]
     },
     {
         "value": "工具",
         "children": [
-            "npm",
-            "Yarn",
-            "Git",
-            "Webpack",
-            "Parcel",
-            "调试",
-            "自动化测试",
-            "PostCSS",
-            "Less",
-            "Sass",
-            "*Lint"
+            "版本管理",
+            "包管理",
+            "调试工具",
+            "自动化测试"
         ]
     },
     {
@@ -51,16 +48,23 @@
             "Vue",
             "小程序",
             "Electron",
-            "DSL",
             "Flutter",
             "ReactNative",
-            "Weex"
+            "Weex",
+            "DSL"
         ]
     },
     {
-        "value": "架构模式",
+        "value": "能力周边",
         "children": [
-            "Serverless"
+            "AI",
+            "AST",
+            "IoT",
+            "SQL",
+            "HTTP",
+            "Nginx",
+            "Docker",
+            "Server"
         ]
     },
     {
@@ -68,25 +72,8 @@
         "children": [
             "V8",
             "浏览器",
-            "NodeJS",
             "WebView",
-            "IoT",
             "Extensions"
-        ]
-    },
-    {
-        "value": "前端周边",
-        "children": [
-            "AI",
-            "PWA",
-            "Flux",
-            "GraphQL",
-            "HTTP",
-            "nginx",
-            "Docker",
-            "AST",
-            "SQL",
-            "Server"
         ]
     },
     {
@@ -97,13 +84,13 @@
             "方案",
             "技巧",
             "性能",
-            "安全",
-            "悟道"
+            "安全"
         ]
     },
     {
         "value": "他山之石",
         "children": [
+            "职业感悟",
             "产品理解",
             "用户体验",
             "美学思考",
