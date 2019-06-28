@@ -1,109 +1,109 @@
 [
-    {
-        "value": "基础",
-        "children": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "NodeJS"
-        ]
-    },
-    {
-        "value": "语言",
-        "children": [
-            "WebAssembly"
-        ]
-    },
-    {
-        "value": "架构",
-        "children": [
-            "设计模式",
-            "GraphQL",
-            "Serverless",
-            "MVVM"
-        ]
-    },
-    {
-        "value": "语法增强",
-        "children": [
-            "TypeScript",
-            "PostCSS",
-            "Less",
-            "Sass"
-        ]
-    },
-    {
-        "value": "工具",
-        "children": [
-            "版本管理",
-            "包管理",
-            "调试工具",
-            "自动化测试"
-        ]
-    },
-    {
-        "value": "框架",
-        "children": [
-            "React",
-            "Vue",
-            "小程序",
-            "Electron",
-            "Flutter",
-            "ReactNative",
-            "Weex",
-            "DSL"
-        ]
-    },
-    {
-        "value": "能力周边",
-        "children": [
-            "AI",
-            "AST",
-            "IoT",
-            "SQL",
-            "HTTP",
-            "Nginx",
-            "Docker",
-            "Server"
-        ]
-    },
-    {
-        "value": "RunTime",
-        "children": [
-            "V8",
-            "浏览器",
-            "WebView",
-            "Extensions"
-        ]
-    },
-    {
-        "value": "总结",
-        "children": [
-            "总结",
-            "汇总",
-            "方案",
-            "技巧",
-            "性能",
-            "安全"
-        ]
-    },
-    {
-        "value": "他山之石",
-        "children": [
-            "职业感悟",
-            "产品理解",
-            "用户体验",
-            "美学思考",
-            "行业趋势",
-            "深度精选"
-        ]
-    },
-    {
-        "value": "新闻",
-        "children": [
-            "业界新闻",
-            "技术会议",
-            "周期互撕"
-        ]
-    }
+  {
+    "value": "基础",
+    "children": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NodeJS"
+    ]
+  },
+  {
+    "value": "语言",
+    "children": [
+      "WebAssembly"
+    ]
+  },
+  {
+    "value": "架构",
+    "children": [
+      "设计模式",
+      "GraphQL",
+      "Serverless",
+      "MVVM"
+    ]
+  },
+  {
+    "value": "选型",
+    "children": [
+      "React",
+      "Vue",
+      "小程序",
+      "Electron",
+      "Flutter",
+      "ReactNative",
+      "Weex",
+      "DSL"
+    ]
+  },
+  {
+    "value": "工具",
+    "children": [
+      "版本管理",
+      "包管理",
+      "调试工具",
+      "自动化测试"
+    ]
+  },
+  {
+    "value": "语法增强",
+    "children": [
+      "TypeScript",
+      "PostCSS",
+      "Less",
+      "Sass"
+    ]
+  },
+  {
+    "value": "能力周边",
+    "children": [
+      "AI",
+      "AST",
+      "IoT",
+      "SQL",
+      "HTTP",
+      "Nginx",
+      "Docker",
+      "Server"
+    ]
+  },
+  {
+    "value": "RunTime",
+    "children": [
+      "V8",
+      "浏览器",
+      "WebView",
+      "Extensions"
+    ]
+  },
+  {
+    "value": "总结",
+    "children": [
+      "总结",
+      "汇总",
+      "方案",
+      "技巧",
+      "性能",
+      "安全"
+    ]
+  },
+  {
+    "value": "他山之石",
+    "children": [
+      "职业感悟",
+      "产品理解",
+      "用户体验",
+      "美学思考",
+      "行业趋势",
+      "深度精选"
+    ]
+  },
+  {
+    "value": "新闻",
+    "children": [
+      "业界新闻",
+      "技术会议",
+      "周期互撕"
+    ]
+  }
 ]
