@@ -40,8 +40,8 @@
                 "desc": "政采云移动端 UI 组件库"
             },
             {
-                "url": "http://front-sentry.zcy.gov.cn/",
-                "icon": "http://front-sentry.zcy.gov.cn/_static/1540008990/sentry/images/default-organization-logo.png",
+                "url": "http://front-sentry.zcygov.cn/",
+                "icon": "http://front-sentry.zcygov.cn/_static/1540008990/sentry/images/default-organization-logo.png",
                 "title": "前端线上监控",
                 "desc": "政采云前端线上监控系统"
             },
@@ -101,25 +101,25 @@
             },
             {
                 "url": "http://www.getmarkman.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/040e6fd24cc8907f5dbd4157fd5221a9.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/040e6fd24cc8907f5dbd4157fd5221a9.png",
                 "title": "MarkMan",
                 "desc": "设计稿标注、测量神器"
             },
             {
                 "url": "http://ppduck.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/74007d596a17a9f50a8c3fae6bade7b0.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/74007d596a17a9f50a8c3fae6bade7b0.png",
                 "title": "PP 鸭",
                 "desc": "本地图片压缩神器"
             },
             {
                 "url": "http://www.hellofont.cn/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/e8070d5e96f91c612160161175083426.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/e8070d5e96f91c612160161175083426.png",
                 "title": "字由",
                 "desc": "强烈推荐的字体利器"
             },
             {
                 "url": "http://youmightnotneedjquery.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/94f03eb52373d39aad84d964e9113c86.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/94f03eb52373d39aad84d964e9113c86.png",
                 "title": "UMNNJ",
                 "desc": "原生 JS 替代 jQuery API"
             },
@@ -197,7 +197,7 @@
             },
             {
                 "url": "https://colorhunt.co/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/021f7151cc53a88698487d4e9930fa9a.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/021f7151cc53a88698487d4e9930fa9a.png",
                 "title": "Color Hunt",
                 "desc": "不费心配色方案"
             },
@@ -269,67 +269,67 @@
             },
             {
                 "url": "http://taobaofed.org/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/44c4af3b5787aebf4982cb56714c2deb.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/44c4af3b5787aebf4982cb56714c2deb.png",
                 "title": "TaoBao FED",
                 "desc": "用技术为体验提供无限可能"
             },
             {
                 "url": "http://fex.baidu.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2ea185bfaf4c5b6599b8ede4fed0c00c.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/2ea185bfaf4c5b6599b8ede4fed0c00c.png",
                 "title": "Baidu FEX",
                 "desc": "百度 Web 前端研发部"
             },
             {
                 "url": "http://www.alloyteam.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/56389b8125ffbed6ebc975d257a8bc36.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/56389b8125ffbed6ebc975d257a8bc36.png",
                 "title": "AlloyTeam",
                 "desc": "腾讯 SNG Web 前端团队"
             },
             {
                 "url": "https://75team.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/33bbdd2f87243910e78bf6e4cac64866.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/33bbdd2f87243910e78bf6e4cac64866.png",
                 "title": "奇舞团",
                 "desc": "360 Web 前端开发团队"
             },
             {
                 "url": "https://aotu.io/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/d2d62a3cd63f6ea59562da2f124672d1.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/d2d62a3cd63f6ea59562da2f124672d1.png",
                 "title": "凹凸实验室",
                 "desc": "京东 Web 前端团队"
             },
             {
                 "url": "http://jdc.jd.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/39f7a289a72d81551012a83c76f27466.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/39f7a289a72d81551012a83c76f27466.png",
                 "title": "JDC",
                 "desc": "京东设计中心"
             },
             {
                 "url": "http://www.aliued.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a6b24462e57ad7d212022b3074804784.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/a6b24462e57ad7d212022b3074804784.png",
                 "title": "Ali UED",
                 "desc": "阿里巴巴国际 UED 团队"
             },
             {
                 "url": "http://www.aliued.cn/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/77ab8f3a041b972891a06206bd69b62f.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/77ab8f3a041b972891a06206bd69b62f.png",
                 "title": "U一点",
                 "desc": "阿里巴巴(中文站) UED"
             },
             {
                 "url": "https://ymfe.org/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/7b7f1ec334796341e5386cdb531f518c.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/7b7f1ec334796341e5386cdb531f518c.png",
                 "title": "YMFE",
                 "desc": "去哪儿网大前端技术中心"
             },
             {
                 "url": "https://fe.ele.me",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2aee2858eaff91a132f3feb4bee94104.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/2aee2858eaff91a132f3feb4bee94104.png",
                 "title": "ElemeFE",
                 "desc": "饿了么前端开发团队"
             },
             {
                 "url": "https://tech.meituan.com/tag/%E5%89%8D%E7%AB%AF",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/a158a6cc7fb33beac62927c4d9b86d27.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/a158a6cc7fb33beac62927c4d9b86d27.png",
                 "title": "美团 FED",
                 "desc": "美团前端开发团队"
             },
@@ -341,19 +341,19 @@
             },
             {
                 "url": "http://ued.ctrip.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/1fabb504089504de16bba1d68a7b62f4.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/1fabb504089504de16bba1d68a7b62f4.png",
                 "title": "Trip UED",
                 "desc": "携程设计委员会"
             },
             {
                 "url": "https://mux.alimama.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/66401062c713e9f836de2dec5fcbc518.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/66401062c713e9f836de2dec5fcbc518.png",
                 "title": "MUX",
                 "desc": "阿里妈妈 MUX"
             },
             {
                 "url": "http://imweb.io/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/ad45f0d83b554f0fc34c444b701b626c.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/ad45f0d83b554f0fc34c444b701b626c.png",
                 "title": "IMWeb",
                 "desc": "腾讯 IMWeb 前端团队"
             },
@@ -365,19 +365,19 @@
             },
             {
                 "url": "https://blog.souche.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2354bd1ca9a22b3251e09f848ea33c2a.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/2354bd1ca9a22b3251e09f848ea33c2a.png",
                 "title": "大搜车研发团队",
                 "desc": "大搜车研发团队博客"
             },
             {
                 "url": "https://webfe.kujiale.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/2836eb0112c546183203b73d8201c632.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/2836eb0112c546183203b73d8201c632.png",
                 "title": "酷家乐前端团队",
                 "desc": "酷家乐前端团队博客"
             },
             {
                 "url": "http://zzfe.org/#/list",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/ae69be9ea43fd57cd92cbb0f2cee4aaa.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/ae69be9ea43fd57cd92cbb0f2cee4aaa.png",
                 "title": "大转转前端",
                 "desc": "一个有趣的前端团队"
             },
@@ -419,7 +419,7 @@
             },
             {
                 "url": "https://www.zcfy.cc/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/1feeb73dc8794b3f3ab4de065f1122ec.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/1feeb73dc8794b3f3ab4de065f1122ec.png",
                 "title": "众成翻译",
                 "desc": "优秀的技术翻译社区"
             },
@@ -588,13 +588,13 @@
             },
             {
                 "url": "https://www.zhangxinxu.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/72e4f049fb378012015309c4eab82325.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/72e4f049fb378012015309c4eab82325.png",
                 "title": "张鑫旭",
                 "desc": "优秀的前端技术博客"
             },
             {
                 "url": "http://www.ruanyifeng.com/blog/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/3c98031dbd5c8ba87cc30b3e22f3bf8a.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/3c98031dbd5c8ba87cc30b3e22f3bf8a.png",
                 "title": "阮一峰",
                 "desc": "阮一峰的网络日志"
             }
@@ -612,7 +612,7 @@
             },
             {
                 "url": "http://cn.vuejs.org/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/ba92c3a3489f7bcd6d7c4decfd5398e4.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/ba92c3a3489f7bcd6d7c4decfd5398e4.png",
                 "title": "Vuejs",
                 "desc": "小巧精致渐进式JavaScript框架"
             },
@@ -702,7 +702,7 @@
             },
             {
                 "url": "https://meili.github.io/min/docs/minui/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/23936d7294fa62b11355398cd5dcfd9a.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/23936d7294fa62b11355398cd5dcfd9a.png",
                 "title": "Min",
                 "desc": "小程序自定义标签 UI 组件库"
             },
@@ -930,7 +930,7 @@
             },
             {
                 "url": "https://parceljs.org/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/de251a958f3721ff4ffbeeaed25cae46.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/de251a958f3721ff4ffbeeaed25cae46.png",
                 "title": "Parcel",
                 "desc": "极速零配置Web应用打包工具"
             },
@@ -960,13 +960,13 @@
             },
             {
                 "url": "http://fis.baidu.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/1b25e1171f89ec54573761ae3410450f.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/1b25e1171f89ec54573761ae3410450f.png",
                 "title": "FIS3",
                 "desc": "百度出品的前端工程构建工具"
             },
             {
                 "url": "https://rollupjs.org/guide/en",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/cb48fa42a9752d4d2065f4492aefb945.png",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/cb48fa42a9752d4d2065f4492aefb945.png",
                 "title": "Rollup.js",
                 "desc": "JavaScript 模块打包器"
             },
@@ -990,7 +990,7 @@
         "items": [
             {
                 "url": "https://www.charlesproxy.com/",
-                "icon": "https://sitecdn.zcy.gov.cn/zcy-front-other-upload/aed3210e788a13093526ae75aa8196af.jpg",
+                "icon": "https://sitecdn.zcycdn.com/zcy-front-other-upload/aed3210e788a13093526ae75aa8196af.jpg",
                 "title": "Charles",
                 "desc": "前端抓包调试神器"
             },
