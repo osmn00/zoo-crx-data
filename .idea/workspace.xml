@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/f2e/develop.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/develop.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/f2e/reporter.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/f2e/reporter.json" afterDir="false" />
-    </list>
+    <list default="true" id="25c2b8bf-99f7-4978-b995-9e9d42b19388" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +15,7 @@
     <session id="-781325772">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="61" />
+          <entry key="project.closed" value="62" />
           <entry key="project.open.time.0" value="12" />
           <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.2" value="2" />
@@ -37,7 +33,7 @@
           <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
           <entry key="js" value="6" />
-          <entry key="json" value="48" />
+          <entry key="json" value="53" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
@@ -45,7 +41,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JSON" value="48" />
+          <entry key="JSON" value="53" />
           <entry key="JavaScript" value="6" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -72,17 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/f2e/article-tags.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="-705">
               <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/f2e/index.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="292" column="18" lean-forward="true" selection-start-line="292" selection-start-column="18" selection-end-line="292" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -90,8 +77,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/f2e/reporter.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
+            <state relative-caret-position="2100">
               <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/f2e/index.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="316" column="52" lean-forward="true" selection-start-line="316" selection-start-column="52" selection-end-line="316" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -99,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="110" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="110" />
+            <state relative-caret-position="255">
+              <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -108,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/f2e/books.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2748">
-              <caret line="89" column="40" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="40" />
+            <state relative-caret-position="215">
+              <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -125,9 +121,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&quot;ishot&quot;: 1,</find>
-      <find>面试题</find>
-      <find>公众号</find>
       <find>nos</find>
       <find>python</find>
       <find>html5</find>
@@ -155,6 +148,9 @@
       <find>宇尘</find>
       <find>http://sitecdn.zcy.gov.cn</find>
       <find>https://sitecdn.zcy.gov.cn</find>
+      <find>http://sitecdn.zcycdn.com/</find>
+      <find>https://sitecdn.zcy.gov.cn/</find>
+      <find>zcy.gov</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;thumb&quot;</replace>
@@ -164,7 +160,12 @@
       <replace>ES6</replace>
       <replace>let</replace>
       <replace>http://sitecdn.zcycdn.com</replace>
+      <replace>https://sitecdn.zcycdn.com/</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/static</dir>
+      <dir>$PROJECT_DIR$/static/f2e</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -178,11 +179,11 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/static/f2e/article-categories.json" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/static/f2e/index.json" />
-        <option value="$PROJECT_DIR$/static/f2e/books.json" />
         <option value="$PROJECT_DIR$/static/f2e/article-tags.json" />
-        <option value="$PROJECT_DIR$/static/f2e/develop.json" />
         <option value="$PROJECT_DIR$/static/f2e/reporter.json" />
+        <option value="$PROJECT_DIR$/static/f2e/books.json" />
+        <option value="$PROJECT_DIR$/static/f2e/index.json" />
+        <option value="$PROJECT_DIR$/static/f2e/develop.json" />
       </list>
     </option>
   </component>
@@ -330,12 +331,12 @@
       <workItem from="1561449078110" duration="1309000" />
       <workItem from="1561540275951" duration="393000" />
       <workItem from="1561695731823" duration="387000" />
-      <workItem from="1566813415234" duration="354000" />
+      <workItem from="1566813415234" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69384000" />
+    <option name="totallyTimeSpent" value="69624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -424,38 +425,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/f2e/article-tags.json">
+    <entry file="file://$PROJECT_DIR$/static/f2e/books.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="215">
+          <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/reporter.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
+        <state relative-caret-position="2100">
           <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/f2e/books.json">
+    <entry file="file://$PROJECT_DIR$/static/f2e/article-tags.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2748">
-          <caret line="89" column="40" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="40" />
+        <state relative-caret-position="-705">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/index.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="292" column="18" lean-forward="true" selection-start-line="292" selection-start-column="18" selection-end-line="292" selection-end-column="18" />
+        <state relative-caret-position="235">
+          <caret line="316" column="52" lean-forward="true" selection-start-line="316" selection-start-column="52" selection-end-line="316" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/f2e/develop.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="110" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="110" />
+        <state relative-caret-position="255">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
         </state>
       </provider>
     </entry>
