@@ -11,16 +11,18 @@
   {
     "value": "语言",
     "children": [
-      "WebAssembly"
+      "WebAssembly",
+      "TypeScript"
     ]
   },
   {
     "value": "架构",
     "children": [
-      "设计模式",
       "GraphQL",
       "Serverless",
-      "MVVM"
+      "MVVM",
+      "微前端",
+      "BFF"
     ]
   },
   {
@@ -48,7 +50,6 @@
   {
     "value": "语法增强",
     "children": [
-      "TypeScript",
       "PostCSS",
       "Less",
       "Sass"
@@ -80,11 +81,11 @@
     "value": "总结",
     "children": [
       "总结",
-      "汇总",
       "方案",
       "技巧",
       "性能",
-      "安全"
+      "安全",
+      "设计模式"
     ]
   },
   {
